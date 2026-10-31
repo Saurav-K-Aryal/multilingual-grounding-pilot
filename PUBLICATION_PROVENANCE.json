@@ -162,6 +162,62 @@
       "source_sha256": "dbbf474bbb70158eb02fec950c3898dc52ad7cd55f9bdfa9dc65d7bc83455cf1",
       "published_sha256": "ff583f9c8fdce9047660da3ba3e03a2868ea507623c6f40dda68206faff7766e",
       "transformation": "license/source attribution retained; public-release wording and whitespace clarified; no observations changed"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/SUMMARY.txt",
+      "published": "SUMMARY.txt",
+      "source_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "work/public_repos/multilingual-grounding-pilot/CITATION.cff",
+      "published": "CITATION.cff",
+      "source_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c",
+      "published_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/README.md",
+      "published": "README.md",
+      "source_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
+      "published_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/PREPRINTS_METADATA.txt",
+      "published": "PREPRINTS_METADATA.txt",
+      "source_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a",
+      "published_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding_overleaf.zip",
+      "published": "overleaf.zip",
+      "source_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
+      "published_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "work/public_repos/multilingual-grounding-pilot/.gitignore",
+      "published": ".gitignore",
+      "source_sha256": "e9750be89a024aa94fb8bc25249399d51b8f1b584bd4a253fd592df384113648",
+      "published_sha256": "e9750be89a024aa94fb8bc25249399d51b8f1b584bd4a253fd592df384113648",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/draft.pdf",
+      "published": "paper.pdf",
+      "source_sha256": "279304fb366c5c6a63fcf35c8cbbd4ec6ef3360960404d91c22a60d3ab2e9135",
+      "published_sha256": "279304fb366c5c6a63fcf35c8cbbd4ec6ef3360960404d91c22a60d3ab2e9135",
+      "transformation": "none",
+      "kind": "release metadata or manuscript archive/preview"
     }
   ],
   "generated_files": [
@@ -177,13 +233,15 @@
     },
     {
       "published": "README.md",
-      "published_sha256": "721210577d775fbbf6b29151d14595485af016c948b0dd03f1f33a5d94f98cea",
-      "purpose": "Portable setup, results, scope, attribution and manuscript instructions."
+      "published_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
+      "purpose": "Portable setup, results, scope, attribution and manuscript instructions.",
+      "previous_published_sha256": "721210577d775fbbf6b29151d14595485af016c948b0dd03f1f33a5d94f98cea"
     },
     {
       "published": "SUMMARY.txt",
-      "published_sha256": "dedfe85ec44e0e79d2fc00c87b6aac6276349444d4bf4423efcd5ac029ec72b5",
-      "purpose": "One-paragraph summary of actual observations."
+      "published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "purpose": "One-paragraph summary of actual observations.",
+      "previous_published_sha256": "dedfe85ec44e0e79d2fc00c87b6aac6276349444d4bf4423efcd5ac029ec72b5"
     },
     {
       "published": "preprints_metadata.json",

@@ -75,3 +75,11 @@ Download `overleaf.zip`, upload it to Overleaf, and select `draft.tex`. The ZIP 
 Suggested Preprints subject: **Computer Science and Mathematics**. Topic within subject: **Artificial Intelligence and Machine Learning**. The optional MDPI Topic candidate is **Challenges and Solutions in Large Language Models**, a secondary fit for LLM reliability/QA, not a dedicated African-language collection. Exact labels and source URLs are in `preprints_metadata.json`; no submission or collection selection has been performed.
 
 Code, execution, analysis and manuscript preparation used Codex assistance under the author's direction. Future work in the paper follows the proposed community-authored Yoruba/Swahili evaluation, human audit, evidence-locality/freshness checks, and cost-aware reference assistant; those interventions remain prospective.
+
+## Preprints.org classification
+
+Subject: **Computer Science and Mathematics**. Topic within Subject: **Artificial Intelligence and Machine Learning**. See `PREPRINTS_METADATA.txt` for the optional collection and its scope fit.
+
+## Manuscript downloads
+
+[Compiled PDF](paper.pdf) · [Overleaf ZIP](overleaf.zip). The ZIP contains the editable manuscript, bibliography and figures.
