@@ -1,0 +1,15 @@
+External resources for pilot 07 (prepared October 31, 2026)
+
+AfriQA: Odunayo Ogundepo and collaborators. AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages. Findings of EMNLP 2023, 14957–14972. DOI 10.18653/v1/2023.findings-emnlp.997.
+Primary paper: https://aclanthology.org/2023.findings-emnlp.997/
+Official code/data: https://github.com/masakhane-io/afriqa
+Exact source Git revision: 5c29933753692c28773c34ac1f68482007f1d2bb
+The official GitHub repository declares CC-BY-4.0. The HuggingFace dataset metadata declares CC-BY-SA-4.0, while a reused card body describes a noncommercial restriction. These differing statements are preserved as provenance; this local academic evaluation does not resolve or relicense upstream content. English passages originate in Wikipedia, whose source attribution/share-alike requirements remain relevant. The public artifact provides source IDs, short gold references, hashes, and attributed derived observations. It excludes complete source passages, native questions and option lists; no complete source corpus is republished.
+
+Afri-MCQA: Atnafu Lambebo Tonja and collaborators. Afri-MCQA: Multimodal Cultural Question Answering for African Languages. ACL 2026, 40249–40282. DOI 10.18653/v1/2026.acl-long.1869.
+Primary paper: https://aclanthology.org/2026.acl-long.1869/
+Official data: https://huggingface.co/datasets/Atnafu/Afri-MCQA
+Actual frozen dataset-server image/data revision: d5d4db17fc2703d761799746d258e2dbb6bc4b73 (verified to exist via HuggingFaceHub API). The latest repository revision observed during collection was 8b8c53df57b0c2cf9d9798c53515ba1dd14df669; those revisions are not conflated.
+The official dataset card declares CC-BY-NC-4.0. Images, native/English questions, correct/wrong paired options, and cultural category labels remain the creators' content. No audio is downloaded or evaluated. This study uses only public labeled Yoruba development records, with an internally frozen image-group research holdout. Official hidden-label test records are not evaluated. The resource snapshot does not contain Swahili. Native-speaker creation is attributed to the external resource authors, not claimed as new community review performed by this project.
+
+The locally executed study retains the original text without new translations; the public repository provides download instructions rather than complete input text. Empty-passage controls, deterministic option permutations, downsampling, and research splits are explicitly authored transformations described in frozen_protocol.json. Any synthetic control is identified as such.

@@ -1,0 +1,100 @@
+{
+  "experiment_id": "07",
+  "status": "completed",
+  "model": "gemma4:26b",
+  "actual_model_calls": 117,
+  "locked_rows": 108,
+  "interface_dev_rows": 9,
+  "metrics": {
+    "AfriQA": {
+      "swa_english_gold": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 9,
+        "strict_null_correct": 0,
+        "strict_gold_span_correct": 6,
+        "normalized_em_correct": 6,
+        "sum_token_f1": 6.682539682539683,
+        "supplied_contiguous_span_answers": 9
+      },
+      "swa_native_empty": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 0,
+        "strict_null_correct": 12,
+        "strict_gold_span_correct": 0,
+        "normalized_em_correct": 0,
+        "sum_token_f1": 0.0,
+        "supplied_contiguous_span_answers": 0
+      },
+      "swa_native_gold": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 10,
+        "strict_null_correct": 0,
+        "strict_gold_span_correct": 6,
+        "normalized_em_correct": 6,
+        "sum_token_f1": 6.682539682539683,
+        "supplied_contiguous_span_answers": 10
+      },
+      "yor_english_gold": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 11,
+        "strict_null_correct": 0,
+        "strict_gold_span_correct": 6,
+        "normalized_em_correct": 6,
+        "sum_token_f1": 7.588095238095238,
+        "supplied_contiguous_span_answers": 11
+      },
+      "yor_native_empty": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 0,
+        "strict_null_correct": 12,
+        "strict_gold_span_correct": 0,
+        "normalized_em_correct": 0,
+        "sum_token_f1": 0.0,
+        "supplied_contiguous_span_answers": 0
+      },
+      "yor_native_gold": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "answered": 11,
+        "strict_null_correct": 0,
+        "strict_gold_span_correct": 7,
+        "normalized_em_correct": 7,
+        "sum_token_f1": 8.583333333333334,
+        "supplied_contiguous_span_answers": 11
+      }
+    },
+    "Afri-MCQA": {
+      "yor_image_english": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "correct": 8
+      },
+      "yor_image_native": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "correct": 7
+      },
+      "yor_noimage_native": {
+        "items": 12,
+        "schema_invalid_or_transport_failed": 0,
+        "correct": 3
+      }
+    }
+  },
+  "elapsed_seconds": 31.792605583905242,
+  "protocol_sha256": "2a9e012ae62311acb648fbfba0ff74a9b53004cc95b1e5fdb97a5f3fcb197c11",
+  "limits": [
+    "Small selected published subsets; no population inference or universal cultural/linguistic ranking.",
+    "Public benchmark contamination in pretrained models is not excluded.",
+    "External native-speaker-authored cultural benchmark reuse is not new community validation by this project.",
+    "English instructions and source-span answers do not measure natural native-language service quality.",
+    "No new retrieval model, community intervention, or efficient learned evaluation algorithm is tested.",
+    "Model family, scale, quantization and backend differ; comparisons do not isolate model recency."
+  ],
+  "executor": "Saurav K. Aryal, with Codex-assisted implementation and execution."
+}

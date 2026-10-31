@@ -1,0 +1,184 @@
+[
+  {
+    "id": "9241313327_2",
+    "image_group": "9241313327",
+    "source_image_sha256": "9d193e7d950e0d36889bd5251676ed08565c6639e2632177f4ebc4fe635c6e2c",
+    "decoded_rgb_sha256": "7be2212be15c8729632b97ed87f7eded9fd40b149e12aca6ad8d7403f95f76ba",
+    "processed_path": "images/9241313327.jpg",
+    "processed_sha256": "1df628ebb3f699c36c37d4dd2f9b52e3333e18f7c477c6eb331b960bf3409ec3",
+    "processed_dimensions": [
+      578,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/118/image/image.jpg"
+  },
+  {
+    "id": "2212674035_1",
+    "image_group": "2212674035",
+    "source_image_sha256": "4443b4a31dae957d9964ae619179c892f0c6fb8a3ce972268fe942531a02e508",
+    "decoded_rgb_sha256": "a0cb8930bdbe7aeebff4c9c4033972b73b16ee9f734fe3ce20f3c2af3509d79e",
+    "processed_path": "images/2212674035.jpg",
+    "processed_sha256": "a4d3132291803f472994b242323256addb274336ed086cfa92ac2526da767960",
+    "processed_dimensions": [
+      578,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/39/image/image.jpg"
+  },
+  {
+    "id": "4211933215_1",
+    "image_group": "4211933215",
+    "source_image_sha256": "dc5dc99c94e7e2751425583c8e81a2a86fa745dd1e1e9367f2b7b031e18a3732",
+    "decoded_rgb_sha256": "a7c66ca0957a56a8f8b6fe7b228abf6caf838af0cee9cc858ff289ad74af08cf",
+    "processed_path": "images/4211933215.jpg",
+    "processed_sha256": "ce56bffbb2600e4611c9509404783c239c66f9a138d6f0f9631c78714f1d4ee5",
+    "processed_dimensions": [
+      576,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/175/image/image.jpg"
+  },
+  {
+    "id": "6806574874_2",
+    "image_group": "6806574874",
+    "source_image_sha256": "8734d3229d5e2e586da614504385b650f0e64c299a09b02990a4f5a01f24adfc",
+    "decoded_rgb_sha256": "544fba894352ec7a80fae5fb9877f55b1f629dd17852fd9f99dd4d66c6f1f058",
+    "processed_path": "images/6806574874.jpg",
+    "processed_sha256": "86e6fecee60bc46f9578425995253f5844e9b9f6a42d6d4e9d9ea3af34de1d47",
+    "processed_dimensions": [
+      618,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/5/image/image.jpg"
+  },
+  {
+    "id": "1351354605_1",
+    "image_group": "1351354605",
+    "source_image_sha256": "988682b2df74fbbf021289466739cd09954a30f5c7dba609e9f6a0dc58e7af8e",
+    "decoded_rgb_sha256": "f930e476554ce004dc2fb4c488ee90f2b6e182372fc49321a1665fa7bf790861",
+    "processed_path": "images/1351354605.jpg",
+    "processed_sha256": "ba84df9631108bb542c85ff827c84750feed5d1a676127a72627f7de928400f8",
+    "processed_dimensions": [
+      578,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/149/image/image.jpg"
+  },
+  {
+    "id": "3542949082_1",
+    "image_group": "3542949082",
+    "source_image_sha256": "c743c77237df4ab94a570d3ca96f9d7cf9d12428ea115b527e72a0e53385b12c",
+    "decoded_rgb_sha256": "54f0bf848488dcd1f12fdabfeb4ef2178bef94792380da5ddd191d57a83262f5",
+    "processed_path": "images/3542949082.jpg",
+    "processed_sha256": "6f3c1f5da12afbbcac9e92e02c4598f9425f8b63b893d798d4169504288ec2d3",
+    "processed_dimensions": [
+      576,
+      768
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/68/image/image.jpg"
+  },
+  {
+    "id": "4987715184_1",
+    "image_group": "4987715184",
+    "source_image_sha256": "a53a999919dd81a2d5b165405e2bd2ba100ca41687c84d321ce13c0801a9b055",
+    "decoded_rgb_sha256": "e4fb9c6a232dba1c581aa4d370f9b17042ce0a83d99eea71a3b87e5a242c5f44",
+    "processed_path": "images/4987715184.jpg",
+    "processed_sha256": "91b3154790e3582dd745f2da7cff44f31e1f6320498bd33df59f645734f423ce",
+    "processed_dimensions": [
+      768,
+      512
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/177/image/image.jpg"
+  },
+  {
+    "id": "5733158989_1",
+    "image_group": "5733158989",
+    "source_image_sha256": "1d4de57e559c5000d02ce77c027a478fa38075c0659336b723e45c722cae0bc3",
+    "decoded_rgb_sha256": "89a10e47f32887000501eb94dac5c445f98c576a871376a165208bb7244898cb",
+    "processed_path": "images/5733158989.jpg",
+    "processed_sha256": "273e71249346485c68e03200cbbd6e8daaa504e3e894dab45593adc5946cd9fb",
+    "processed_dimensions": [
+      640,
+      457
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/113/image/image.jpg"
+  },
+  {
+    "id": "5702981037_1",
+    "image_group": "5702981037",
+    "source_image_sha256": "9036ebc660f6c01df7a1ba8bdb862e8d52c2a16f8504c4136bcb0ff0d993e648",
+    "decoded_rgb_sha256": "9c39882686caa0fc12f5f4057b4e9f078be011dfc55e0385bd11e6341abd8c4a",
+    "processed_path": "images/5702981037.jpg",
+    "processed_sha256": "5206499c29aea2cb789443c61a34e43a9dc96241c641a67f6793e1a55bb217b1",
+    "processed_dimensions": [
+      768,
+      454
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/134/image/image.png"
+  },
+  {
+    "id": "7738849847_2",
+    "image_group": "7738849847",
+    "source_image_sha256": "bf51d008970c89b38797290fa5e95743553d36a9e061bc636cc2ed5c081c6245",
+    "decoded_rgb_sha256": "4220965454d8bcfe891dbcdf18694b2cf0748741542fc8a7065219fed32cf852",
+    "processed_path": "images/7738849847.jpg",
+    "processed_sha256": "b50261552bbf72b5023b46ec50c2334defe4d8292ad0ebebaf87b41a57d6e355",
+    "processed_dimensions": [
+      768,
+      504
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/85/image/image.jpg"
+  },
+  {
+    "id": "9709111840_1",
+    "image_group": "9709111840",
+    "source_image_sha256": "53389a05af79e0354e78c2d60c4a8a25217454922c87b1a4628a9dd43385f836",
+    "decoded_rgb_sha256": "97ed2a4eeb9a634ee735193ad0dd172cbe69cf0c36985bb9a617e9c435b888d9",
+    "processed_path": "images/9709111840.jpg",
+    "processed_sha256": "7add1d16388fd1f2a58cbfc8214b368ecb2a11d61fa3c0f6f79aadf6a2551a19",
+    "processed_dimensions": [
+      600,
+      400
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/65/image/image.png"
+  },
+  {
+    "id": "1168636198_2",
+    "image_group": "1168636198",
+    "source_image_sha256": "8b99d2a8e5ae251d24057b26055ed93f27ca708f324960447a599dd5496aa7c6",
+    "decoded_rgb_sha256": "0064959c035408f3eab73afd83fb379baf4709a7a6dc98493342566f439b3ba5",
+    "processed_path": "images/1168636198.jpg",
+    "processed_sha256": "720bd98715b3c23751ffa4d0a5f27cabe43844516619a6d03b84f787bf748368",
+    "processed_dimensions": [
+      768,
+      576
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/76/image/image.png"
+  },
+  {
+    "id": "6819342716_3",
+    "image_group": "6819342716",
+    "source_image_sha256": "19d6dc21d136dd95cd68cd329d194eec644f0780074c1bafc9dcb795164be666",
+    "decoded_rgb_sha256": "5bc68dd3a93325964cb438964e297772853bc6aab8815b6d943f5167933c4815",
+    "processed_path": "images/6819342716.jpg",
+    "processed_sha256": "8f84f295d399d9138c655302804655869ef4e91ebe129377ce56242d710d7996",
+    "processed_dimensions": [
+      768,
+      432
+    ],
+    "source_worker_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+    "source_url_without_expiring_query": "https://datasets-server.huggingface.co/cached-assets/Atnafu/Afri-MCQA/--/d5d4db17fc2703d761799746d258e2dbb6bc4b73/--/Yoruba_dev/dev/120/image/image.jpg"
+  }
+]

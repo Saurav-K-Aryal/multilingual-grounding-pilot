@@ -1,0 +1,108 @@
+{
+  "status": "frozen_before_any_new_native_calls",
+  "experiment_id": "07",
+  "source_manifest_sha256": "ecc7aebcb8670114827147db929ae8bcae378e69a384d0feaa4e1449d2102c93",
+  "runner_sha256": "d85af3fbfe1489415274c3b845525e07236559c31f1280b6705b94da515416fd",
+  "cases_sha256": "219822282e1fc7637a43c715c72e58bcf014f668a4cf3cc78c9d7cc44241e4ab",
+  "selection_sha256": "eeba2cea24c28513207bc79ca7000b7cc7d93701e08ecdbdcb17506e2be6f74f",
+  "image_manifest_sha256": "581a78e1b53740c915aac2783bd36e372320a832067dbc4144a1a680b25f1439",
+  "seed": 20261031,
+  "models": [
+    "qwen3.5:4b",
+    "gemma4:26b"
+  ],
+  "cases_per_model": 117,
+  "planned_calls_total": 234,
+  "interface_dev_calls_per_model": 9,
+  "locked_calls_per_model": 108,
+  "afriqa": {
+    "locked_items_per_language": 12,
+    "interface_dev_items_per_language": 1,
+    "languages": [
+      "yor",
+      "swa"
+    ],
+    "source_split": "official test; internal interface-only group separated by English passage title",
+    "strata": "three who, three when, three where, three other English question prefixes per language",
+    "conditions": [
+      "native_gold",
+      "english_gold",
+      "native_empty"
+    ],
+    "answer_contract": "Explicit verbatim English passage span in every language; empty passage mandates JSON null. Cross-lingual comprehension/English extraction, not native-language answer production.",
+    "gold_oracle": "Published human English gold span verified at its official character offset; published human_translation query marker; no generated translations/labels.",
+    "metrics": [
+      "strict gold-span exact match",
+      "normalized exact match",
+      "token F1",
+      "contiguous supplied-span rate",
+      "strict null abstention on empty",
+      "schema/error counts"
+    ],
+    "grouping": "Each question/English passage title is one paired unit; titles are disjoint between internal dev and locked, and across selected languages. Yoruba/Swahili source questions differ, so cross-language raw accuracy is not a causal language comparison. Native-versus-English is paired within the same item."
+  },
+  "afrimcqa": {
+    "languages": [
+      "Yoruba only; Swahili absent in source snapshot"
+    ],
+    "source_split": "Gold-bearing official development data only; official test hides labels and is not evaluated. Internal image-group-disjoint research holdout, not official test accuracy.",
+    "locked_items": 12,
+    "interface_dev_items": 1,
+    "metadata_categories": [
+      "Cooking and food",
+      "Objects, materials, clothing",
+      "Geography, building, and landmarks",
+      "Brands, products, and companies"
+    ],
+    "locked_category_quota": 3,
+    "locked_correct_letter_quota": 3,
+    "conditions": [
+      "image_native",
+      "image_english",
+      "noimage_native"
+    ],
+    "gold_oracle": "Published correct_en/correct_native plus paired wrong options; one fixed outcome-independent joint permutation. No manual translation or model judge.",
+    "metrics": [
+      "strict gold-letter accuracy",
+      "native-English paired discordances",
+      "image-noimage paired discordances",
+      "schema/error counts"
+    ],
+    "grouping": "Each original image group is one paired unit; all conditions share the same frozen option order; dev and locked image IDs and decoded-pixel hashes are disjoint.",
+    "image_processing": {
+      "max_edge": 768,
+      "format": "JPEG",
+      "quality": 90,
+      "exif_transpose": true,
+      "pillow_version": "12.3.0"
+    }
+  },
+  "native_request": {
+    "endpoint": "http://127.0.0.1:11434/api/chat",
+    "format": "json",
+    "stream": false,
+    "think": false,
+    "options": {
+      "temperature": 0,
+      "seed": 20261031,
+      "num_predict": 128,
+      "num_ctx": 6144
+    },
+    "timeout_seconds_per_call": 120,
+    "retries": 0
+  },
+  "system_prompts": {
+    "AfriQA": "You are doing source-constrained English extractive question answering.\nReturn a JSON object with exactly one key, \"answer\". Its value must be either a string copied verbatim from the supplied English passage, or null.\nThe question may be in Yoruba, Swahili, or English. In ALL cases the answer must be an English passage span; do not translate the answer into the question language.\nUse only the supplied passage. If the passage is empty, you MUST return {\"answer\": null}, even if you know the answer. Do not add explanations, citations, or other keys.",
+    "Afri-MCQA": "Answer the multiple-choice question using the listed A-D options. Use the supplied image when an image is present. When no image is supplied, make your best choice from the question and options.\nReturn a JSON object with exactly one key, \"answer\", whose value is exactly one of \"A\", \"B\", \"C\", or \"D\". Do not translate options, add explanations, or output other keys."
+  },
+  "execution_policy": "GPU serialized by root; run only after root GO. No model-based prompt, item, threshold, condition, or recipe tuning. Preserve invalid responses/errors as failed observations; no answer repair or replacement items. Interface-dev rows are transport/schema checks, not outcome-based search. Any substantive amendment requires a new protocol before locked calls.",
+  "limits": [
+    "Small selected published subsets; no population inference or universal cultural/linguistic ranking.",
+    "Public benchmark contamination in pretrained models is not excluded.",
+    "External native-speaker-authored cultural benchmark reuse is not new community validation by this project.",
+    "English instructions and source-span answers do not measure natural native-language service quality.",
+    "No new retrieval model, community intervention, or efficient learned evaluation algorithm is tested.",
+    "Model family, scale, quantization and backend differ; comparisons do not isolate model recency."
+  ],
+  "executor": "Saurav K. Aryal, with Codex-assisted implementation and execution."
+}

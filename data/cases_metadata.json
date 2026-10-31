@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "afriqa_yor_258_native_gold",
+    "item_id": "afriqa_yor_258",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "four million"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Cashew",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_258_english_gold",
+    "item_id": "afriqa_yor_258",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "four million"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Cashew",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_258_native_empty",
+    "item_id": "afriqa_yor_258",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "four million"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Cashew",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_5_native_gold",
+    "item_id": "afriqa_swa_5",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "every 10 years"
+    ],
+    "requires_abstention": false,
+    "passage_title": "United States census",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_5_english_gold",
+    "item_id": "afriqa_swa_5",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "every 10 years"
+    ],
+    "requires_abstention": false,
+    "passage_title": "United States census",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_5_native_empty",
+    "item_id": "afriqa_swa_5",
+    "dataset": "AfriQA",
+    "split": "interface_dev",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "every 10 years"
+    ],
+    "requires_abstention": true,
+    "passage_title": "United States census",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_6819342716_3_image_native",
+    "item_id": "afrimcqa_yor_6819342716_3",
+    "dataset": "Afri-MCQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "A",
+    "image_path": "images/6819342716.jpg",
+    "image_group": "6819342716",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afrimcqa_yor_6819342716_3_image_english",
+    "item_id": "afrimcqa_yor_6819342716_3",
+    "dataset": "Afri-MCQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "A",
+    "image_path": "images/6819342716.jpg",
+    "image_group": "6819342716",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afrimcqa_yor_6819342716_3_noimage_native",
+    "item_id": "afrimcqa_yor_6819342716_3",
+    "dataset": "Afri-MCQA",
+    "split": "interface_dev",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "A",
+    "image_path": null,
+    "image_group": "6819342716",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afrimcqa_yor_1168636198_2_image_native",
+    "item_id": "afrimcqa_yor_1168636198_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "A",
+    "image_path": "images/1168636198.jpg",
+    "image_group": "1168636198",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_yor_159_native_empty",
+    "item_id": "afriqa_yor_159",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Frankfurt, Germany"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Seat of the European Central Bank",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_39_native_empty",
+    "item_id": "afriqa_swa_39",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Hun Sen"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Hun Sen",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_yor_150_native_gold",
+    "item_id": "afriqa_yor_150",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "15 August 1948"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Division of Korea",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_4211933215_1_noimage_native",
+    "item_id": "afrimcqa_yor_4211933215_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "B",
+    "image_path": null,
+    "image_group": "4211933215",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_19_english_gold",
+    "item_id": "afriqa_yor_19",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Mike Abayomi Bamiloye"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Mike Bamiloye",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_5733158989_1_image_native",
+    "item_id": "afrimcqa_yor_5733158989_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "B",
+    "image_path": "images/5733158989.jpg",
+    "image_group": "5733158989",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_283_native_empty",
+    "item_id": "afriqa_swa_283",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Surinen,"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Suriname",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_270_native_empty",
+    "item_id": "afriqa_swa_270",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Ricky Oyaro"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Kenyan hip hop",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_9241313327_2_image_native",
+    "item_id": "afrimcqa_yor_9241313327_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "D",
+    "image_path": "images/9241313327.jpg",
+    "image_group": "9241313327",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_179_native_gold",
+    "item_id": "afriqa_yor_179",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Redmond"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Microsoft",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_1351354605_1_noimage_native",
+    "item_id": "afrimcqa_yor_1351354605_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "B",
+    "image_path": null,
+    "image_group": "1351354605",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afriqa_swa_39_english_gold",
+    "item_id": "afriqa_swa_39",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Hun Sen"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Hun Sen",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_1351354605_1_image_english",
+    "item_id": "afrimcqa_yor_1351354605_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "B",
+    "image_path": "images/1351354605.jpg",
+    "image_group": "1351354605",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afrimcqa_yor_1168636198_2_noimage_native",
+    "item_id": "afrimcqa_yor_1168636198_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "A",
+    "image_path": null,
+    "image_group": "1168636198",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_swa_200_native_gold",
+    "item_id": "afriqa_swa_200",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "10 million"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Arthropod",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_105_native_gold",
+    "item_id": "afriqa_yor_105",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Herbert Macaulay"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Nigerian National Democratic Party",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_yor_130_native_gold",
+    "item_id": "afriqa_yor_130",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "1937"
+    ],
+    "requires_abstention": false,
+    "passage_title": "United States Poet Laureate",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_105_native_empty",
+    "item_id": "afriqa_yor_105",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Herbert Macaulay"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Nigerian National Democratic Party",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_swa_180_english_gold",
+    "item_id": "afriqa_swa_180",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Michael Morhaime, Frank Pearce and Allen Adham"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Blizzard Entertainment",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_yor_158_native_gold",
+    "item_id": "afriqa_yor_158",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "2004"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Miss Sahhara",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_swa_62_native_empty",
+    "item_id": "afriqa_swa_62",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "1990"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Kenya Television Network",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_swa_104_english_gold",
+    "item_id": "afriqa_swa_104",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Camden, Arkansas"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Ne-Yo",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_9709111840_1_noimage_native",
+    "item_id": "afrimcqa_yor_9709111840_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "A",
+    "image_path": null,
+    "image_group": "9709111840",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_swa_200_native_empty",
+    "item_id": "afriqa_swa_200",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "10 million"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Arthropod",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_107_native_empty",
+    "item_id": "afriqa_swa_107",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "1960"
+    ],
+    "requires_abstention": true,
+    "passage_title": "History of anime",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_yor_50_english_gold",
+    "item_id": "afriqa_yor_50",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "highest mountain on Earth is Mount Everest"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Mountain",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_130_native_empty",
+    "item_id": "afriqa_yor_130",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "1937"
+    ],
+    "requires_abstention": true,
+    "passage_title": "United States Poet Laureate",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_5702981037_1_noimage_native",
+    "item_id": "afrimcqa_yor_5702981037_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "A",
+    "image_path": null,
+    "image_group": "5702981037",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_107_english_gold",
+    "item_id": "afriqa_swa_107",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "1960"
+    ],
+    "requires_abstention": false,
+    "passage_title": "History of anime",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_yor_50_native_gold",
+    "item_id": "afriqa_yor_50",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "highest mountain on Earth is Mount Everest"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Mountain",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_150_english_gold",
+    "item_id": "afriqa_yor_150",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "15 August 1948"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Division of Korea",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_yor_19_native_empty",
+    "item_id": "afriqa_yor_19",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Mike Abayomi Bamiloye"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Mike Bamiloye",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_2212674035_1_image_english",
+    "item_id": "afrimcqa_yor_2212674035_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "D",
+    "image_path": "images/2212674035.jpg",
+    "image_group": "2212674035",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_179_english_gold",
+    "item_id": "afriqa_yor_179",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Redmond"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Microsoft",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_yor_179_native_empty",
+    "item_id": "afriqa_yor_179",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Redmond"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Microsoft",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_4987715184_1_image_native",
+    "item_id": "afrimcqa_yor_4987715184_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "D",
+    "image_path": "images/4987715184.jpg",
+    "image_group": "4987715184",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_yor_30_native_empty",
+    "item_id": "afriqa_yor_30",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Union Buildings in Pretoria"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Death and state funeral of Nelson Mandela",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_283_english_gold",
+    "item_id": "afriqa_swa_283",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Surinen,"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Suriname",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_21_native_empty",
+    "item_id": "afriqa_swa_21",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "second centuries BCE"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Bible",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_7738849847_2_image_english",
+    "item_id": "afrimcqa_yor_7738849847_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "C",
+    "image_path": "images/7738849847.jpg",
+    "image_group": "7738849847",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_yor_30_english_gold",
+    "item_id": "afriqa_yor_30",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Union Buildings in Pretoria"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Death and state funeral of Nelson Mandela",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_104_native_gold",
+    "item_id": "afriqa_swa_104",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Camden, Arkansas"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Ne-Yo",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_62_native_gold",
+    "item_id": "afriqa_swa_62",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "1990"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Kenya Television Network",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_5733158989_1_noimage_native",
+    "item_id": "afrimcqa_yor_5733158989_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "B",
+    "image_path": null,
+    "image_group": "5733158989",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_81_native_empty",
+    "item_id": "afriqa_swa_81",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "February 18, 1965"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Dr. Dre",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_swa_200_english_gold",
+    "item_id": "afriqa_swa_200",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "10 million"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Arthropod",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_5702981037_1_image_native",
+    "item_id": "afrimcqa_yor_5702981037_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "A",
+    "image_path": "images/5702981037.jpg",
+    "image_group": "5702981037",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afrimcqa_yor_4211933215_1_image_native",
+    "item_id": "afrimcqa_yor_4211933215_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "B",
+    "image_path": "images/4211933215.jpg",
+    "image_group": "4211933215",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_158_native_empty",
+    "item_id": "afriqa_yor_158",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "2004"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Miss Sahhara",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_9241313327_2_image_english",
+    "item_id": "afrimcqa_yor_9241313327_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "D",
+    "image_path": "images/9241313327.jpg",
+    "image_group": "9241313327",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_29_native_gold",
+    "item_id": "afriqa_yor_29",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "2nd of March 1942"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Enoch Adeboye",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_82_native_gold",
+    "item_id": "afriqa_yor_82",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "1925"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Cherubim and Seraphim (Nigerian church)",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_9709111840_1_image_native",
+    "item_id": "afrimcqa_yor_9709111840_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "A",
+    "image_path": "images/9709111840.jpg",
+    "image_group": "9709111840",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_yor_29_native_empty",
+    "item_id": "afriqa_yor_29",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "2nd of March 1942"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Enoch Adeboye",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_30_native_gold",
+    "item_id": "afriqa_yor_30",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Union Buildings in Pretoria"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Death and state funeral of Nelson Mandela",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_yor_82_native_empty",
+    "item_id": "afriqa_yor_82",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "1925"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Cherubim and Seraphim (Nigerian church)",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_yor_139_native_empty",
+    "item_id": "afriqa_yor_139",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Adebayo Faleti"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Adebayo Faleti",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_swa_81_english_gold",
+    "item_id": "afriqa_swa_81",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "February 18, 1965"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Dr. Dre",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_swa_270_native_gold",
+    "item_id": "afriqa_swa_270",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Ricky Oyaro"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Kenyan hip hop",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_2212674035_1_noimage_native",
+    "item_id": "afrimcqa_yor_2212674035_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "D",
+    "image_path": null,
+    "image_group": "2212674035",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afrimcqa_yor_4987715184_1_noimage_native",
+    "item_id": "afrimcqa_yor_4987715184_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "D",
+    "image_path": null,
+    "image_group": "4987715184",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_260_native_gold",
+    "item_id": "afriqa_swa_260",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Nile"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Nile",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_107_native_gold",
+    "item_id": "afriqa_swa_107",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "1960"
+    ],
+    "requires_abstention": false,
+    "passage_title": "History of anime",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_yor_139_native_gold",
+    "item_id": "afriqa_yor_139",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Adebayo Faleti"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Adebayo Faleti",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_yor_158_english_gold",
+    "item_id": "afriqa_yor_158",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "2004"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Miss Sahhara",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_1168636198_2_image_english",
+    "item_id": "afrimcqa_yor_1168636198_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "A",
+    "image_path": "images/1168636198.jpg",
+    "image_group": "1168636198",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afrimcqa_yor_5702981037_1_image_english",
+    "item_id": "afrimcqa_yor_5702981037_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "A",
+    "image_path": "images/5702981037.jpg",
+    "image_group": "5702981037",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_yor_105_english_gold",
+    "item_id": "afriqa_yor_105",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Herbert Macaulay"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Nigerian National Democratic Party",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_3542949082_1_image_english",
+    "item_id": "afrimcqa_yor_3542949082_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "C",
+    "image_path": "images/3542949082.jpg",
+    "image_group": "3542949082",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afrimcqa_yor_5733158989_1_image_english",
+    "item_id": "afrimcqa_yor_5733158989_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "B",
+    "image_path": "images/5733158989.jpg",
+    "image_group": "5733158989",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_124_english_gold",
+    "item_id": "afriqa_swa_124",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Ancient Egypt"
+    ],
+    "requires_abstention": false,
+    "passage_title": "History of cancer",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_swa_180_native_gold",
+    "item_id": "afriqa_swa_180",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Michael Morhaime, Frank Pearce and Allen Adham"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Blizzard Entertainment",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_swa_124_native_gold",
+    "item_id": "afriqa_swa_124",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Ancient Egypt"
+    ],
+    "requires_abstention": false,
+    "passage_title": "History of cancer",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_yor_159_english_gold",
+    "item_id": "afriqa_yor_159",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Frankfurt, Germany"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Seat of the European Central Bank",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_yor_139_english_gold",
+    "item_id": "afriqa_yor_139",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Adebayo Faleti"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Adebayo Faleti",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_yor_19_native_gold",
+    "item_id": "afriqa_yor_19",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Mike Abayomi Bamiloye"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Mike Bamiloye",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_2212674035_1_image_native",
+    "item_id": "afrimcqa_yor_2212674035_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "D",
+    "image_path": "images/2212674035.jpg",
+    "image_group": "2212674035",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_150_native_empty",
+    "item_id": "afriqa_yor_150",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "15 August 1948"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Division of Korea",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_3542949082_1_image_native",
+    "item_id": "afrimcqa_yor_3542949082_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "C",
+    "image_path": "images/3542949082.jpg",
+    "image_group": "3542949082",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afriqa_yor_130_english_gold",
+    "item_id": "afriqa_yor_130",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "1937"
+    ],
+    "requires_abstention": false,
+    "passage_title": "United States Poet Laureate",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_180_native_empty",
+    "item_id": "afriqa_swa_180",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Michael Morhaime, Frank Pearce and Allen Adham"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Blizzard Entertainment",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_swa_260_english_gold",
+    "item_id": "afriqa_swa_260",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Nile"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Nile",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_104_native_empty",
+    "item_id": "afriqa_swa_104",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Camden, Arkansas"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Ne-Yo",
+    "question_group": "where"
+  },
+  {
+    "id": "afriqa_yor_82_english_gold",
+    "item_id": "afriqa_yor_82",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "1925"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Cherubim and Seraphim (Nigerian church)",
+    "question_group": "when"
+  },
+  {
+    "id": "afriqa_swa_270_english_gold",
+    "item_id": "afriqa_swa_270",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "Ricky Oyaro"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Kenyan hip hop",
+    "question_group": "who"
+  },
+  {
+    "id": "afriqa_swa_81_native_gold",
+    "item_id": "afriqa_swa_81",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "February 18, 1965"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Dr. Dre",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_7738849847_2_noimage_native",
+    "item_id": "afrimcqa_yor_7738849847_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "C",
+    "image_path": null,
+    "image_group": "7738849847",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afrimcqa_yor_4211933215_1_image_english",
+    "item_id": "afrimcqa_yor_4211933215_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "B",
+    "image_path": "images/4211933215.jpg",
+    "image_group": "4211933215",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afriqa_yor_29_english_gold",
+    "item_id": "afriqa_yor_29",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "english_gold",
+    "gold_spans": [
+      "2nd of March 1942"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Enoch Adeboye",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_260_native_empty",
+    "item_id": "afriqa_swa_260",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Nile"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Nile",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_4987715184_1_image_english",
+    "item_id": "afrimcqa_yor_4987715184_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "D",
+    "image_path": "images/4987715184.jpg",
+    "image_group": "4987715184",
+    "category": "Geography, building, and landmarks"
+  },
+  {
+    "id": "afriqa_swa_21_english_gold",
+    "item_id": "afriqa_swa_21",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "second centuries BCE"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Bible",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_yor_159_native_gold",
+    "item_id": "afriqa_yor_159",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Frankfurt, Germany"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Seat of the European Central Bank",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_9709111840_1_image_english",
+    "item_id": "afrimcqa_yor_9709111840_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "A",
+    "image_path": "images/9709111840.jpg",
+    "image_group": "9709111840",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_swa_21_native_gold",
+    "item_id": "afriqa_swa_21",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "second centuries BCE"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Bible",
+    "question_group": "other"
+  },
+  {
+    "id": "afriqa_swa_39_native_gold",
+    "item_id": "afriqa_swa_39",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Hun Sen"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Hun Sen",
+    "question_group": "who"
+  },
+  {
+    "id": "afrimcqa_yor_6806574874_2_image_native",
+    "item_id": "afrimcqa_yor_6806574874_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "C",
+    "image_path": "images/6806574874.jpg",
+    "image_group": "6806574874",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afriqa_yor_50_native_empty",
+    "item_id": "afriqa_yor_50",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "native_empty",
+    "gold_spans": [
+      "highest mountain on Earth is Mount Everest"
+    ],
+    "requires_abstention": true,
+    "passage_title": "Mountain",
+    "question_group": "other"
+  },
+  {
+    "id": "afrimcqa_yor_6806574874_2_image_english",
+    "item_id": "afrimcqa_yor_6806574874_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_english",
+    "gold_letter": "C",
+    "image_path": "images/6806574874.jpg",
+    "image_group": "6806574874",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afriqa_swa_283_native_gold",
+    "item_id": "afriqa_swa_283",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_gold",
+    "gold_spans": [
+      "Surinen,"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Suriname",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_6806574874_2_noimage_native",
+    "item_id": "afrimcqa_yor_6806574874_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "C",
+    "image_path": null,
+    "image_group": "6806574874",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afrimcqa_yor_1351354605_1_image_native",
+    "item_id": "afrimcqa_yor_1351354605_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "B",
+    "image_path": "images/1351354605.jpg",
+    "image_group": "1351354605",
+    "category": "Objects, materials, clothing"
+  },
+  {
+    "id": "afriqa_swa_62_english_gold",
+    "item_id": "afriqa_swa_62",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "english_gold",
+    "gold_spans": [
+      "1990"
+    ],
+    "requires_abstention": false,
+    "passage_title": "Kenya Television Network",
+    "question_group": "when"
+  },
+  {
+    "id": "afrimcqa_yor_9241313327_2_noimage_native",
+    "item_id": "afrimcqa_yor_9241313327_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "D",
+    "image_path": null,
+    "image_group": "9241313327",
+    "category": "Cooking and food"
+  },
+  {
+    "id": "afrimcqa_yor_7738849847_2_image_native",
+    "item_id": "afrimcqa_yor_7738849847_2",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "image_native",
+    "gold_letter": "C",
+    "image_path": "images/7738849847.jpg",
+    "image_group": "7738849847",
+    "category": "Brands, products, and companies"
+  },
+  {
+    "id": "afriqa_swa_124_native_empty",
+    "item_id": "afriqa_swa_124",
+    "dataset": "AfriQA",
+    "split": "locked",
+    "source_language": "swa",
+    "condition": "native_empty",
+    "gold_spans": [
+      "Ancient Egypt"
+    ],
+    "requires_abstention": true,
+    "passage_title": "History of cancer",
+    "question_group": "where"
+  },
+  {
+    "id": "afrimcqa_yor_3542949082_1_noimage_native",
+    "item_id": "afrimcqa_yor_3542949082_1",
+    "dataset": "Afri-MCQA",
+    "split": "locked",
+    "source_language": "yor",
+    "condition": "noimage_native",
+    "gold_letter": "C",
+    "image_path": null,
+    "image_group": "3542949082",
+    "category": "Objects, materials, clothing"
+  }
+]

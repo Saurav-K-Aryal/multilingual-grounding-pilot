@@ -1,0 +1,25 @@
+{
+  "pilot_id": "07",
+  "short_title": "Grounded Local Answers",
+  "subject": "Computer Science and Mathematics",
+  "topic_within_subject": "Artificial Intelligence and Machine Learning",
+  "exact_label_source": "https://www.preprints.org/subject/browse/computer-science-and-mathematics/artificial-intelligence-and-machine-learning",
+  "classification_status": "Exact public Preprints browse labels verified; applying them to this manuscript is our recommendation, not a platform or editor decision.",
+  "mdpi_topic": {
+    "exact_title": "Challenges and Solutions in Large Language Models",
+    "url": "https://www.mdpi.com/topics/B712V62UH1",
+    "preprints_catalog_url": "https://www.preprints.org/topics",
+    "preprints_catalog_status": "Submission Open",
+    "preprints_catalog_deadline": "2027-08-29",
+    "fit": "Question answering, reliability, privacy leakage, model security. Preprints catalog and MDPI journal deadlines can differ; use each interface's own deadline."
+  },
+  "suggested_keywords": [
+    "multilingual evaluation",
+    "Yoruba",
+    "Swahili",
+    "grounded question answering",
+    "abstention"
+  ],
+  "keywords_status": "Author-proposed keywords, NOT exact dropdown labels or collection titles.",
+  "mdpi_topic_fit_degree": "secondary (LLM reliability/QA, not a dedicated African-language Topic)"
+}

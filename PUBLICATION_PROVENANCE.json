@@ -1,0 +1,204 @@
+{
+  "executor": "Saurav K. Aryal, with Codex-assisted implementation, execution and manuscript preparation.",
+  "excluded": "Upstream image bytes, native questions, complete passages/options, full source corpora, model weights, raw image-bearing request payloads, caches and environments.",
+  "files": [
+    {
+      "source": "pilots/__init__.py",
+      "published": "pilots/__init__.py",
+      "source_sha256": "7542e3a76d06725e5ba1edb2c773602b44f74adc06ed8f500f084a9204b1e114",
+      "published_sha256": "7542e3a76d06725e5ba1edb2c773602b44f74adc06ed8f500f084a9204b1e114",
+      "transformation": "none"
+    },
+    {
+      "source": "pilots/common.py",
+      "published": "pilots/common.py",
+      "source_sha256": "6744acd4f518fa14310fecc3f5756183bb6cb7c366f442017cf942991067dc9f",
+      "published_sha256": "6744acd4f518fa14310fecc3f5756183bb6cb7c366f442017cf942991067dc9f",
+      "transformation": "none"
+    },
+    {
+      "source": "pilots/strengthening/__init__.py",
+      "published": "pilots/strengthening/__init__.py",
+      "source_sha256": "d3bfcde66bbb5604ca63f6d9d6d6bbc5744a18bee40d7e1ca48ed8b00d6dd844",
+      "published_sha256": "d3bfcde66bbb5604ca63f6d9d6d6bbc5744a18bee40d7e1ca48ed8b00d6dd844",
+      "transformation": "none"
+    },
+    {
+      "source": "pilots/strengthening/multilingual_external_qa.py",
+      "published": "pilots/strengthening/multilingual_external_qa.py",
+      "source_sha256": "d85af3fbfe1489415274c3b845525e07236559c31f1280b6705b94da515416fd",
+      "published_sha256": "d85af3fbfe1489415274c3b845525e07236559c31f1280b6705b94da515416fd",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/frozen_protocol.json",
+      "published": "protocol/frozen_protocol.json",
+      "source_sha256": "2a9e012ae62311acb648fbfba0ff74a9b53004cc95b1e5fdb97a5f3fcb197c11",
+      "published_sha256": "2a9e012ae62311acb648fbfba0ff74a9b53004cc95b1e5fdb97a5f3fcb197c11",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/source_manifest.json",
+      "published": "protocol/source_manifest.json",
+      "source_sha256": "ecc7aebcb8670114827147db929ae8bcae378e69a384d0feaa4e1449d2102c93",
+      "published_sha256": "ecc7aebcb8670114827147db929ae8bcae378e69a384d0feaa4e1449d2102c93",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/image_manifest.json",
+      "published": "protocol/image_manifest.json",
+      "source_sha256": "581a78e1b53740c915aac2783bd36e372320a832067dbc4144a1a680b25f1439",
+      "published_sha256": "581a78e1b53740c915aac2783bd36e372320a832067dbc4144a1a680b25f1439",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/exclusion_ledger.json",
+      "published": "protocol/exclusion_ledger.json",
+      "source_sha256": "5f2992bc2b6cde58c0aae2380505ac8ac5e3ad993113e75f06317655c1dfd4b9",
+      "published_sha256": "5f2992bc2b6cde58c0aae2380505ac8ac5e3ad993113e75f06317655c1dfd4b9",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/selection.json",
+      "published": "data/selection_metadata.json",
+      "source_sha256": "eeba2cea24c28513207bc79ca7000b7cc7d93701e08ecdbdcb17506e2be6f74f",
+      "published_sha256": "4507621f82df9b0d5867b1268dbf88c13595105cc36bbf39f4fb3ae1b6da31d5",
+      "transformation": "derived projection; input passages/questions/options/image bytes omitted, predictions and numeric observations retained"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/cases.json",
+      "published": "data/cases_metadata.json",
+      "source_sha256": "219822282e1fc7637a43c715c72e58bcf014f668a4cf3cc78c9d7cc44241e4ab",
+      "published_sha256": "7d66360bfd200fe24a2280b80798f5c7e3b5b161607d372296e2b169ce71ad4f",
+      "transformation": "derived projection; input passages/questions/options/image bytes omitted, predictions and numeric observations retained"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/qwen3.5_4b/result.json",
+      "published": "results/observed/qwen3.5_4b/result.json",
+      "source_sha256": "b2041cbc861e643aa3cd4cd8e484b1eaf0e16f410936305217a616fb4c4ad23c",
+      "published_sha256": "b2041cbc861e643aa3cd4cd8e484b1eaf0e16f410936305217a616fb4c4ad23c",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/qwen3.5_4b/decisions.json",
+      "published": "results/observed/qwen3.5_4b/decisions.json",
+      "source_sha256": "b18eae76e764d7adcb8ddfd98a9e36da363e2ce2b8b6c22daea448ad43a0dad8",
+      "published_sha256": "b18eae76e764d7adcb8ddfd98a9e36da363e2ce2b8b6c22daea448ad43a0dad8",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/qwen3.5_4b/model_provenance.json",
+      "published": "results/observed/qwen3.5_4b/model_provenance.json",
+      "source_sha256": "de9516f223423303b2e5a0e59df00747b0b217bc88c7450ff6fa6ce4d941ca0c",
+      "published_sha256": "de9516f223423303b2e5a0e59df00747b0b217bc88c7450ff6fa6ce4d941ca0c",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/qwen3.5_4b/model_calls.jsonl",
+      "published": "results/observed/qwen3.5_4b/responses.jsonl",
+      "source_sha256": "e4d8a7c2092df7581e224dc36f9437be2d97ac4825a3828b316f1877ad554a5b",
+      "published_sha256": "8bfa7d4f059c6dbde67119f36248eae0c29a3e5b84644aea33231ea280761817",
+      "transformation": "derived projection; input passages/questions/options/image bytes omitted, predictions and numeric observations retained"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/gemma4_26b/result.json",
+      "published": "results/observed/gemma4_26b/result.json",
+      "source_sha256": "1c4c1eb4fba510632a5a7be6a4aca8928d67ad17d0d13c42b9c33a056664c336",
+      "published_sha256": "1c4c1eb4fba510632a5a7be6a4aca8928d67ad17d0d13c42b9c33a056664c336",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/gemma4_26b/decisions.json",
+      "published": "results/observed/gemma4_26b/decisions.json",
+      "source_sha256": "6ba28f49f1eea023c9501db8d89a5c6646f42da36073ba69b27f58ecf3339469",
+      "published_sha256": "6ba28f49f1eea023c9501db8d89a5c6646f42da36073ba69b27f58ecf3339469",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/gemma4_26b/model_provenance.json",
+      "published": "results/observed/gemma4_26b/model_provenance.json",
+      "source_sha256": "4b0acf240605e1c6c2241207c204de96ceaa807cf31732cf946de8d95d136b31",
+      "published_sha256": "4b0acf240605e1c6c2241207c204de96ceaa807cf31732cf946de8d95d136b31",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/models/gemma4_26b/model_calls.jsonl",
+      "published": "results/observed/gemma4_26b/responses.jsonl",
+      "source_sha256": "8afdd198b4145d57ca7b81319f152bf807818ed492b719f5bc126313985daa46",
+      "published_sha256": "7982d8cffff91807c5458f9b8f3cda9cbf2f3f21d5975e7ddfcce358c1e6d242",
+      "transformation": "derived projection; input passages/questions/options/image bytes omitted, predictions and numeric observations retained"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/data/model_results.json",
+      "published": "data/model_results.json",
+      "source_sha256": "26de0ce835e191024b5cd306302961123b3a77c29483cce576d9e455b402d7d9",
+      "published_sha256": "26de0ce835e191024b5cd306302961123b3a77c29483cce576d9e455b402d7d9",
+      "transformation": "none"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/generate_figures.py",
+      "published": "generate_figures.py",
+      "source_sha256": "f2d6a1bd5d502a22910bf4859cda772a187dbad36577b42ecdad323a8a937994",
+      "published_sha256": "f2d6a1bd5d502a22910bf4859cda772a187dbad36577b42ecdad323a8a937994",
+      "transformation": "none"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/figures/source_extraction.png",
+      "published": "figures/source_extraction.png",
+      "source_sha256": "b88a5cfc18cc9788452d668b607f4cb85dadfe8c28db7d24b7a2688fd6321820",
+      "published_sha256": "b88a5cfc18cc9788452d668b607f4cb85dadfe8c28db7d24b7a2688fd6321820",
+      "transformation": "none"
+    },
+    {
+      "source": "outputs/pilot_papers/07_multilingual_grounding/figures/cultural_image_use.png",
+      "published": "figures/cultural_image_use.png",
+      "source_sha256": "24aabd4aeba0eaa40ef31fb382d33c938fc061d30ee9db1e9834ec59a222d341",
+      "published_sha256": "24aabd4aeba0eaa40ef31fb382d33c938fc061d30ee9db1e9834ec59a222d341",
+      "transformation": "none"
+    },
+    {
+      "source": "runs/strengthening-07-20261031/ATTRIBUTION.txt",
+      "published": "ATTRIBUTION.txt",
+      "source_sha256": "dbbf474bbb70158eb02fec950c3898dc52ad7cd55f9bdfa9dc65d7bc83455cf1",
+      "published_sha256": "ff583f9c8fdce9047660da3ba3e03a2868ea507623c6f40dda68206faff7766e",
+      "transformation": "license/source attribution retained; public-release wording and whitespace clarified; no observations changed"
+    }
+  ],
+  "generated_files": [
+    {
+      "published": "prepare_data.py",
+      "published_sha256": "4f755d68c2a610dce935944eb39ad789de0dbdf06e6773722ca9427ddd91c1b8",
+      "purpose": "Explicit upstream re-download helper; no model calls by default."
+    },
+    {
+      "published": "verify_results.py",
+      "published_sha256": "337410c15eea28ba22b37617addc06f332e1768c2f369512424f2fb181a5beaa",
+      "purpose": "Independent stdlib readback of projected observations and numeric cells."
+    },
+    {
+      "published": "README.md",
+      "published_sha256": "721210577d775fbbf6b29151d14595485af016c948b0dd03f1f33a5d94f98cea",
+      "purpose": "Portable setup, results, scope, attribution and manuscript instructions."
+    },
+    {
+      "published": "SUMMARY.txt",
+      "published_sha256": "dedfe85ec44e0e79d2fc00c87b6aac6276349444d4bf4423efcd5ac029ec72b5",
+      "purpose": "One-paragraph summary of actual observations."
+    },
+    {
+      "published": "preprints_metadata.json",
+      "published_sha256": "c482b500b0412596fa161216e46206954b63491d5a18e34061f6bfba519c3e70",
+      "purpose": "Suggested classifications, primary source URLs and collection-status caveats."
+    },
+    {
+      "published": "requirements.txt",
+      "published_sha256": "1b83eb5855cf5e04329c627e651cbec96db4da1ecb6a0d700cceff8c43ccda54",
+      "purpose": "Pinned direct dependency."
+    },
+    {
+      "published": "overleaf.zip",
+      "published_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
+      "purpose": "Only manuscript-source package; no loose TeX or bibliography files in public tree."
+    }
+  ]
+}

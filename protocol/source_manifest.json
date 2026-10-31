@@ -1,0 +1,50 @@
+{
+  "source_git_revision": "5c29933753692c28773c34ac1f68482007f1d2bb",
+  "afrimcqa_latest_repository_revision_observed": "8b8c53df57b0c2cf9d9798c53515ba1dd14df669",
+  "files": [
+    {
+      "name": "afriqa_yor_gold_test.json",
+      "url": "https://raw.githubusercontent.com/masakhane-io/afriqa/5c29933753692c28773c34ac1f68482007f1d2bb/data/gold_passages/yor/gold_span_passages.afriqa.yor.en.test.json",
+      "bytes": 224135,
+      "sha256": "0aa0f6c1769f07788c918fd0dc1848b70ec0f06e8de9a6893d9037b9ff05abaa",
+      "retrieved_utc": "2026-10-31T21:04:06.889397+00:00"
+    },
+    {
+      "name": "afriqa_swa_gold_test.json",
+      "url": "https://raw.githubusercontent.com/masakhane-io/afriqa/5c29933753692c28773c34ac1f68482007f1d2bb/data/gold_passages/swa/gold_span_passages.afriqa.swa.en.test.json",
+      "bytes": 324070,
+      "sha256": "18609b69d21c37b737426baed0a4f02495ab237285dd524e8f502f756350d0bf",
+      "retrieved_utc": "2026-10-31T21:04:06.877107+00:00"
+    },
+    {
+      "name": "afrimcqa_yoruba_dev_rows_0.json",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=Atnafu%2FAfri-MCQA&config=Yoruba_dev&split=dev&offset=0&length=100",
+      "bytes": 668614,
+      "sha256": "34a3d45f403ede91f1af463958d26e6bc83eabef90014c4e322469c5edc9ba91",
+      "retrieved_utc": "2026-10-31T21:04:20.606370+00:00"
+    },
+    {
+      "name": "afrimcqa_yoruba_dev_rows_100.json",
+      "url": "https://datasets-server.huggingface.co/rows?dataset=Atnafu%2FAfri-MCQA&config=Yoruba_dev&split=dev&offset=100&length=100",
+      "bytes": 661096,
+      "sha256": "fb10cf47b4374836968db9a203ed4e62ebbf1339112c9f03cf19a47d069c3a9c",
+      "retrieved_utc": "2026-10-31T21:04:20.098599+00:00"
+    },
+    {
+      "name": "afriqa_yor_queries_test.json",
+      "url": "https://raw.githubusercontent.com/masakhane-io/afriqa/5c29933753692c28773c34ac1f68482007f1d2bb/data/queries/yor/queries.afriqa.yor.en.test.json",
+      "bytes": 101216,
+      "sha256": "85027dcfd52e5783ac97acd2b35e5e56bc42a2c4baf8c4cb7b5e5de2c925bcde",
+      "retrieved_utc": "2026-10-31T21:04:39.605963+00:00"
+    },
+    {
+      "name": "afriqa_swa_queries_test.json",
+      "url": "https://raw.githubusercontent.com/masakhane-io/afriqa/5c29933753692c28773c34ac1f68482007f1d2bb/data/queries/swa/queries.afriqa.swa.en.test.json",
+      "bytes": 87689,
+      "sha256": "0804e99d130a7d9357139686db1957aff33e82ab4d8879c65839af35329d690a",
+      "retrieved_utc": "2026-10-31T21:04:39.719161+00:00"
+    }
+  ],
+  "afrimcqa_actual_dataset_server_revision": "d5d4db17fc2703d761799746d258e2dbb6bc4b73",
+  "afrimcqa_actual_revision_confirmed_via_hub_api": true
+}

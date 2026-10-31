@@ -1,0 +1,5508 @@
+[
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "6",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "18",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "21",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "23",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "31",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "33",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "37",
+    "reasons": [
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "48",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "51",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "55",
+    "reasons": [
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "59",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "60",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "61",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "63",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "69",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "78",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "84",
+    "reasons": [
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "87",
+    "reasons": [
+      "passage outside prespecified 40-2200 character range"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "92",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "100",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "114",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "118",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "119",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "120",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "122",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "124",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "126",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "127",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "128",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "133",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "140",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "141",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "144",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "145",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "146",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "154",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "161",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "163",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "164",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "165",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "167",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "168",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "170",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "174",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "182",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "187",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "196",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "205",
+    "reasons": [
+      "no verified short contiguous official English gold span",
+      "passage outside prespecified 40-2200 character range",
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "222",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "225",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "227",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "233",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "243",
+    "reasons": [
+      "no verified short contiguous official English gold span",
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "1",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "2",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "3",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "4",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "7",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "8",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "9",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "10",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "11",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "12",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "13",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "14",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "15",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "16",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "17",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "20",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "22",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "24",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "25",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "26",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "27",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "28",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "32",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "34",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "35",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "36",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "38",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "39",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "41",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "42",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "43",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "44",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "45",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "46",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "47",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "49",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "52",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "53",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "54",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "56",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "58",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "62",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "64",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "65",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "66",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "67",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "68",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "70",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "71",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "72",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "73",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "74",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "75",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "76",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "77",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "79",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "80",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "81",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "83",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "85",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "86",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "88",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "89",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "90",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "91",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "93",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "94",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "95",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "96",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "97",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "98",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "101",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "102",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "103",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "104",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "106",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "107",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "108",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "109",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "110",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "111",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "112",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "113",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "115",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "116",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "117",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "121",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "123",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "125",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "129",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "132",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "134",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "135",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "136",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "137",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "138",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "142",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "143",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "147",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "148",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "149",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "151",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "152",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "153",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "155",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "156",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "157",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "160",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "162",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "166",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "169",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "171",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "172",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "173",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "175",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "176",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "177",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "178",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "180",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "183",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "184",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "185",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "186",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "188",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "189",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "190",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "191",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "192",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "193",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "194",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "195",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "197",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "198",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "199",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "200",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "201",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "202",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "203",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "204",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "206",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "207",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "208",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "209",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "211",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "212",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "213",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "214",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "215",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "216",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "217",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "218",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "219",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "220",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "221",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "223",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "224",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "226",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "228",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "229",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "230",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "231",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "232",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "234",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "235",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "236",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "237",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "238",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "239",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "240",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "241",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "242",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "244",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "245",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "246",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "247",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "248",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "249",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "250",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "251",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "252",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "254",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "255",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "256",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "257",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "259",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "260",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "261",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "yor",
+    "id": "262",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "7",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "12",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "15",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "20",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "33",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "35",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "66",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "72",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "73",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "87",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "91",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "98",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "101",
+    "reasons": [
+      "gold/query text mismatch",
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "102",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "111",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "116",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "130",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "133",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "138",
+    "reasons": [
+      "no verified short contiguous official English gold span",
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "142",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "144",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "148",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "151",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "155",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "157",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "158",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "175",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "187",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "190",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "196",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "199",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "209",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "217",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "218",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "224",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "227",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "235",
+    "reasons": [
+      "passage outside prespecified 40-2200 character range"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "247",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "261",
+    "reasons": [
+      "empty question/title"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "271",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "272",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "276",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "279",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "285",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "290",
+    "reasons": [
+      "no verified short contiguous official English gold span"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "0",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "1",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "2",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "3",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "4",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "6",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "8",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "9",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "10",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "11",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "13",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "14",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "16",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "17",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "18",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "19",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "22",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "23",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "24",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "25",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "26",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "27",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "28",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "29",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "30",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "31",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "32",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "34",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "36",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "37",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "38",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "40",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "41",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "42",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "43",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "44",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "45",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "46",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "47",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "48",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "49",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "50",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "51",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "52",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "53",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "54",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "55",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "56",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "57",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "58",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "59",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "60",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "61",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "63",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "64",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "65",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "67",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "68",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "69",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "70",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "71",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "74",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "75",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "76",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "77",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "78",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "82",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "83",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "84",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "85",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "86",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "88",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "89",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "90",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "92",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "93",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "94",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "95",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "96",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "97",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "99",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "100",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "103",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "105",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "106",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "108",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "109",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "110",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "112",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "113",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "114",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "115",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "117",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "118",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "119",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "120",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "121",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "122",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "123",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "125",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "126",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "127",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "128",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "129",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "132",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "134",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "135",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "136",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "137",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "139",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "140",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "141",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "143",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "145",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "146",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "147",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "149",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "150",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "152",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "153",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "154",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "156",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "159",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "160",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "161",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "162",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "163",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "164",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "166",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "167",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "168",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "169",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "170",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "171",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "172",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "173",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "174",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "176",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "177",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "179",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "181",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "182",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "183",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "184",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "185",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "186",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "188",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "189",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "191",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "192",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "193",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "194",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "195",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "197",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "198",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "201",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "202",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "203",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "204",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "205",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "206",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "207",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "208",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "210",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "211",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "212",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "213",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "215",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "216",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "219",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "220",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "221",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "222",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "223",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "225",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "226",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "228",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "229",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "230",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "231",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "232",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "233",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "234",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "236",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "237",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "238",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "239",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "240",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "241",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "242",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "243",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "244",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "245",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "246",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "248",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "249",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "250",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "251",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "252",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "253",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "254",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "255",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "256",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "257",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "258",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "259",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "262",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "263",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "264",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "265",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "266",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "267",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "268",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "269",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "273",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "275",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "277",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "278",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "280",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "281",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "282",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "284",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "286",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "287",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "288",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "289",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "291",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "292",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "293",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "294",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "295",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "296",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "297",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "298",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "299",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "300",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "AfriQA",
+    "language": "swa",
+    "id": "301",
+    "reasons": [
+      "eligible but not selected by frozen stratified sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2070599612_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9403848508_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6140910973_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6580611371_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3554192412_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8298265485_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9080735643_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7944345647_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4471365679_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9403848508_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2533961300_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8257600810_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3880405285_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9422478786_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2110885457_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0718487814_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6734957782_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4471365679_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8812934268_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9398594056_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6988822387_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6929807741_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4151371379_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2125307464_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0755458936_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1311060187_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4760494141_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6734957782_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7553560797_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7795373771_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6236282844_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7676756162_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7496900124_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2125307464_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7553560797_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0746643829_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0082720847_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8938596287_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9403848508_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7579236750_3",
+    "reasons": [
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1335001309_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0610261611_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0718487814_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7220078089_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4639129776_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0718487814_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9422478786_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7496900124_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0918229125_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7657978739_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7134087539_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4151371379_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5901585835_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7657978739_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9144915217_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8170519976_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8694393143_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0012802324_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7338487704_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4735766740_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1253692667_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6929807741_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7795373771_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2070599612_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3314701830_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5021816768_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6276164686_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6734957782_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6331874337_2",
+    "reasons": [
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4322221596_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1385273614_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3880405285_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9080735643_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9080735643_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4351743833_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9573141394_1",
+    "reasons": [
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6303905357_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4776938799_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0610261611_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7134087539_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6236282844_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0918229125_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2125307464_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0005344301_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1311060187_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8384528360_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9398594056_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8257600810_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7795373771_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5021816768_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4625362104_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6597414648_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0082720847_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6276164686_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6929807741_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0320722979_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories",
+      "person-identification question outside object-centric scope"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7220078089_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0251127034_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8170519976_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0918229125_3",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6580611371_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6303905357_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1090869870_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9398594056_2",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4639129776_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6988822387_1",
+    "reasons": [
+      "outside four prespecified object/food/place/brand cultural categories"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4125483893_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2648913496_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0736555609_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9970202077_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9895708306_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5462532107_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7833912871_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0705639342_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6013675058_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2667348828_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7076690583_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5547194093_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0736555609_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3120098631_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5005587925_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8058380698_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5628517016_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7425837544_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7685841014_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8418241659_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7579236750_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8229190756_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3575687799_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3578984574_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7091800526_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5364592035_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1252606558_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5628517016_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3578984574_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7340426614_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7076690583_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8058380698_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9895708306_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9840091552_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6480854729_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3120098631_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0910749264_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8001276344_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5419437902_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5547194093_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8517722054_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6061715587_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6354781760_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7340426614_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7579236750_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2648913496_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2938334488_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2649770765_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0699990151_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5226174730_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1252606558_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3542949082_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8058380698_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9573141394_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6819342716_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "4909365895_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1399743515_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0815221980_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0265674398_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8174239403_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2561682976_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0514806070_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0514806070_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "6624623518_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1168636198_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2938334488_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3575687799_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0087929416_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7685841014_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7723393184_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5702981037_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "3492709689_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "1168636198_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9999623711_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "7833912871_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9327187732_1",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "2212674035_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "9507881087_2",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "0647881337_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "5628517016_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  },
+  {
+    "dataset": "Afri-MCQA",
+    "id": "8174239403_3",
+    "reasons": [
+      "eligible but not selected by frozen category/image-group sampling"
+    ]
+  }
+]
