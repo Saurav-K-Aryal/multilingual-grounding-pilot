@@ -1,34 +1,34 @@
 # Multilingual grounding pilot
 
-This repository reports two small external-label evaluation pilots that separate question language, supplied English evidence, and cultural image use. Two local configurations completed 234 requests over 24 locked AfriQA questions, 12 locked Yoruba cultural image groups, and 3 interface-only units. The artifact accompanies *Source Use and Cultural Image Questions: Small External-Label Pilots in Yoruba and Swahili* by Saurav K. Aryal, Howard University.
+Two completed external-label studies separate question language, supplied English evidence and cultural image use. The recorded experiment has 24 AfriQA questions (12 Yoruba, 12 Swahili), 12 Yoruba Afri-MCQA image groups and three interface-only units. Two local configurations completed 234 requests. The current manuscript is **Source Use and Cultural Image Questions: Small External-Label Pilots in Yoruba and Swahili**, by Saurav K. Aryal, Howard University.
 
-Repository: https://github.com/Saurav-K-Aryal/multilingual-grounding-pilot
+[Paper PDF](paper.pdf) · [Overleaf ZIP](overleaf.zip) · [Recorded results](results/observed/) · [Future recruitment evidence](recruitment/prolific_20261101/)
 
-## Recorded results
+## Completed results
 
-Each table cell has 12 paired items. AfriQA always requires a verbatim **English passage span**, including for native-language questions.
+Each table cell contains 12 paired items. AfriQA requires a verbatim **English passage span** even when the question is in Yoruba or Swahili.
 
-| Model tag | Yoruba native / English question EM | Swahili native / English question EM | Empty passage: correct null |
+| Model | Yoruba native / English question EM | Swahili native / English question EM | Empty passage correct null |
 | --- | --- | --- | --- |
-| qwen3.5:4b |3/12 /5/12|7/12 /6/12|24/24 |
-| gemma4:26b |7/12 /6/12|6/12 /6/12|24/24 |
+| qwen3.5:4b | 3/12 / 5/12 | 7/12 / 6/12 | 24/24 |
+| gemma4:26b | 7/12 / 6/12 | 6/12 / 6/12 | 24/24 |
 
-| Model tag | Yoruba image/native text | Image/English text | No image/native text |
+| Model | Yoruba image/native | Image/English | No image/native |
 | --- | ---: | ---: | ---: |
-| qwen3.5:4b |5/12|8/12|2/12|
-| gemma4:26b |7/12|8/12|3/12|
+| qwen3.5:4b | 5/12 | 8/12 | 2/12 |
+| gemma4:26b | 7/12 | 8/12 | 3/12 |
 
-All 234 responses have valid schemas and no transport errors. The 18 interface checks are excluded from the 216 locked-response metrics. Conditions are paired within 36 locked units, not 216 independent questions. Question-language effects in AfriQA are mixed; the cultural image/no-image net differences are +3 and +4 correct items. No new community validation, natural native-answer quality, broad cultural ranking, or source-freshness result is claimed.
+All 234 outputs have valid schemas and no transport errors. The 18 interface checks are excluded from 216 locked responses over 36 paired units. Question-language effects are mixed. Image/no-image net differences are +3 and +4 correct items, including individual losses. These results establish a reproducible interface; natural native-answer quality, source freshness, contextual appropriateness and community validation remain unmeasured. The November 1 update changes future work and documentation, not these observations.
 
-## Verify recorded outputs and redraw figures
+## Verify saved results
 
-The offline verifier uses only the Python standard library. It recomputes all 234 output schemas and published short-reference labels, exact-match/F1 scores and locked aggregates, and verifies public-file hashes:
+The standard-library verifier recomputes every recorded response schema, strict and normalized labels, token F1 and aggregate table cell. It also checks the publication provenance and recruitment-evidence hashes. It performs no model or participant calls.
 
 ```sh
 python3 verify_results.py
 ```
 
-Figure generation needs Pillow:
+Regenerate the same two recorded-count figures:
 
 ```sh
 python3 -m venv .venv
@@ -37,49 +37,50 @@ python -m pip install -r requirements.txt
 python generate_figures.py
 ```
 
-`data/model_results.json` contains recorded counts and original result hashes. `results/observed/` includes projected raw responses, decisions, aggregate results, and local artifact metadata. Request projections preserve input text/image hashes without distributing those input contents. `PUBLICATION_PROVENANCE.json` records original and public hashes and every projection/path-only transformation. The original full request log was independently checked before publication, including all 52 image payloads and official label mappings.
+Figure fonts may vary across operating systems; the plotted counts come from the saved numeric results.
 
-## Recreate the input study and optionally rerun inference
+`data/model_results.json` contains the recorded counts and original result hashes. `results/observed/` contains projected raw responses, decisions and aggregates. Input projections preserve text/image hashes without redistributing their content. `PUBLICATION_PROVENANCE.json` links the original and public observations and records the November 1 documentation revision. `verification.json` records the local checks for this revision.
 
-This path downloads upstream inputs locally; it does not mirror source corpora or image bytes in GitHub. It uses pinned AfriQA Git revision 5c29933753692c28773c34ac1f68482007f1d2bb and checks Afri-MCQA dataset-server revision d5d4db17fc2703d761799746d258e2dbb6bc4b73. The latter is a public source revision whose cached image views may move. Preparation stops if that revision, selected case content, or processed image bytes differs, instead of silently changing the study. Upstream availability is required; original source identities are in `protocol/`.
+## Recreate inputs and optionally repeat inference
+
+This command downloads official source inputs and images into a fresh local directory and checks the pinned study identities. It does not run models:
 
 ```sh
 python prepare_data.py --out results/reproduced-inputs
 ```
 
-This fetches public text/metadata and the 13 selected images, freezes 117 identical cases, and verifies their identities. No model calls occur during preparation. For inference, use a compatible native local chat server at `127.0.0.1:11434` with the already downloaded model tags. The observed Qwen artifact uses NVFP4/MLX; Gemma uses Q4_K_M/llama.cpp. Weight digests are in each model's `model_provenance.json`. Other weights/backends are new configurations and should be identified as such.
+The source pins are AfriQA Git revision `5c29933753692c28773c34ac1f68482007f1d2bb` and Afri-MCQA dataset-server revision `d5d4db17fc2703d761799746d258e2dbb6bc4b73`. The helper checks all 117 cases and 13 processed image packets. It stops if source revision, selected content or processed image bytes differ. Upstream availability is necessary; identities and exclusions are in `protocol/`.
+
+For optional inference, start a compatible native local chat server at `127.0.0.1:11434` with the downloaded model tags, then run sequentially:
 
 ```sh
 python -m pilots.strengthening.multilingual_external_qa --stage execute --out results/reproduced-inputs --model qwen3.5:4b
-# After this process finishes and the first model is unloaded:
+# After completion and unloading the first model:
 python -m pilots.strengthening.multilingual_external_qa --stage execute --out results/reproduced-inputs --model gemma4:26b
 ```
 
-Run the models sequentially. Each executes 117 requests once, with no retries or answer repair. Temperature 0, seed 20261031, requested context 6144, output cap 128, JSON formatting and thinking-disabled settings are frozen. Existing model run directories are rejected to preserve observations. The code calls only the loopback model endpoint. This is not a 48 GB peak-memory or runtime benchmark.
+Each model executes 117 cases once, without retries or answer repair, using temperature 0, seed 20261031, requested context 6144, output cap 128, JSON formatting and disabled thinking. Existing output directories are rejected. The observed Qwen artifact uses NVFP4/MLX and Gemma uses Q4_K_M/llama.cpp; digests and backend metadata are recorded. Another artifact/backend is a new configuration. The study did not benchmark 48 GB memory use, runtime or energy.
 
-## Sources and scope
+## Proposed next study
 
-- AfriQA: https://aclanthology.org/2023.findings-emnlp.997/ and https://github.com/masakhane-io/afriqa
-- Afri-MCQA: https://aclanthology.org/2026.acl-long.1869/ and https://huggingface.co/datasets/Atnafu/Afri-MCQA
+The revised future work uses a **Swahili core and gated Asante-compatible Twi replication**, with English reference questions. It is separate from the completed Yoruba/Swahili benchmark diagnostic. No Twi experiment or new human study has been conducted.
 
-AfriQA uses published human translations and gold English spans verified at their original offsets. It measures cross-lingual question comprehension and English-source extraction, not the quality of native-language answers. Empty-passage abstention is an explicit authored control, not human validation of every unsupported-answer situation.
+The [dated Prolific snapshot](recruitment/prolific_20261101/) records 701 first-language and 1,872 fluent Swahili participants, and 70 first-language Twi participants, each active within 90 days with no other filter. Swahili pools overlap and cannot be added. These mutable self-reports identify a possible paid recruitment route, not qualified or reserved participants. No direct Yoruba option was found; that does not establish zero Yoruba speakers.
 
-Afri-MCQA uses **Yoruba only**. Its official test labels are hidden, so these results use an internally frozen, image-group-disjoint research holdout of public **development** records. Correct/wrong options and native/English wording come from the external resource. The selected snapshot contains no Swahili cultural items. No new translations or LLM judges provide ground truth. Public-benchmark contamination in pretrained models is not excluded.
+After funding, ethics determination and consent, paid qualification will assess language variety, reading/writing and source interpretation. The target is 12 raters per language, with at least six qualified independent raters and separate authorship/adjudication roles before test freezing. Authors will not rate their own scenarios. If Twi qualification or costs fail, scope will be reduced before locked outcomes, retaining Swahili and its English reference.
 
-`ATTRIBUTION.txt` records upstream license/source distinctions. The official AfriQA GitHub repository declares CC-BY-4.0; its HuggingFace metadata/card contain differing license statements, which are recorded rather than silently resolved. Afri-MCQA declares CC-BY-NC-4.0. Upstream content retains its creators' terms. This repository includes identifiers, short reference labels and derived observations, while excluding the image corpus, native questions, complete passages/options, model weights and full image-bearing request payloads.
+The planned comparison has 120 scenario families, 40 development and 80 locked, with four evidence/wording variants, four configurations and two policies: 3,840 responses including development and 2,560 locked responses. A 640-response primary audit would be rated twice. The strong baseline already filters ordinary date/location metadata; additional source qualification must justify proposition-level checks beyond it. Useful-answer coverage, unsupported propositions, disagreement, family/source grouping and repeated raters will be reported together. This design and all human assessment remain prospective.
 
-## Manuscript and Preprints metadata
+## Sources and licenses
 
-Download `overleaf.zip`, upload it to Overleaf, and select `draft.tex`. The ZIP contains the single-column ACM source, `refs.bib`, an identical `references.bib` compatibility copy, two PNG figures and a short README. There are no loose TeX or bibliography files in the repository. The manuscript uses only `refs.bib`.
+- [AfriQA](https://aclanthology.org/2023.findings-emnlp.997/) supplies human translations and English answer spans verified at their original offsets. This pilot measures question comprehension and English extraction, not natural native-language answer quality.
+- [Afri-MCQA](https://aclanthology.org/2026.acl-long.1869/) supplies Yoruba cultural image questions. Its official test labels are hidden; the experiment uses a frozen image-group research holdout from public development records. The snapshot contains no Swahili cultural items.
+- [Prolific filters](https://researcher-help.prolific.com/en/articles/445159-how-do-i-use-prolific-s-filters), [paid custom screening](https://researcher-help.prolific.com/en/articles/445155-how-to-use-custom-screening-to-recruit-specific-participants) and [country coverage](https://researcher-help.prolific.com/en/articles/445224-who-are-the-participants-on-prolific) inform the future recruitment plan. Panel availability does not establish local representativeness or community endorsement.
 
-Suggested Preprints subject: **Computer Science and Mathematics**. Topic within subject: **Artificial Intelligence and Machine Learning**. The optional MDPI Topic candidate is **Challenges and Solutions in Large Language Models**, a secondary fit for LLM reliability/QA, not a dedicated African-language collection. Exact labels and source URLs are in `preprints_metadata.json`; no submission or collection selection has been performed.
+`ATTRIBUTION.txt` records upstream terms and differing AfriQA license statements. Afri-MCQA declares CC-BY-NC-4.0. Upstream content keeps its creators' terms. The repository publishes source identifiers, short reference labels and derived observations, excluding the image corpus, native questions, complete passages/options, model weights and full image-bearing request payloads. The original public pilot files and result hashes remain unchanged.
 
-Code, execution, analysis and manuscript preparation used Codex assistance under the author's direction. Future work in the paper follows the proposed community-authored Yoruba/Swahili evaluation, human audit, evidence-locality/freshness checks, and cost-aware reference assistant; those interventions remain prospective.
+## Manuscript versions
 
-## Preprints.org classification
+The root `paper.pdf` and `overleaf.zip` are the November 1 revision. The ZIP contains `draft.tex`, `refs.bib`, an identical `references.bib` compatibility copy, both figures and upload instructions. Select `draft.tex` in Overleaf. No loose TeX or bibliography files are tracked. The [October 31 snapshot](archive/20261031/) preserves the prior manuscript and metadata. Preprints.org submission/version management is separate from these repository files.
 
-Subject: **Computer Science and Mathematics**. Topic within Subject: **Artificial Intelligence and Machine Learning**. See `PREPRINTS_METADATA.txt` for the optional collection and its scope fit.
-
-## Manuscript downloads
-
-[Compiled PDF](paper.pdf) · [Overleaf ZIP](overleaf.zip). The ZIP contains the editable manuscript, bibliography and figures.
+Subject guidance remains **Computer Science and Mathematics**, topic **Artificial Intelligence and Machine Learning**. The optional MDPI Topic candidate in `preprints_metadata.json` is historical classification guidance with source URLs; it is not a record of collection selection. Code, execution, analysis and manuscript preparation used Codex assistance under the author's direction.

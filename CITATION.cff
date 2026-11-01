@@ -6,6 +6,7 @@ authors:
   - family-names: Aryal
     given-names: "Saurav K."
     affiliation: Howard University
-date-released: 2026-10-31
+version: "2026.11.01"
+date-released: 2026-11-01
 url: https://github.com/Saurav-K-Aryal/multilingual-grounding-pilot
 repository-code: https://github.com/Saurav-K-Aryal/multilingual-grounding-pilot

@@ -1,6 +1,6 @@
 {
   "pilot_id": "07",
-  "short_title": "Grounded Local Answers",
+  "short_title": "Source Use and Cultural Image Questions",
   "subject": "Computer Science and Mathematics",
   "topic_within_subject": "Artificial Intelligence and Machine Learning",
   "exact_label_source": "https://www.preprints.org/subject/browse/computer-science-and-mathematics/artificial-intelligence-and-machine-learning",
@@ -11,7 +11,8 @@
     "preprints_catalog_url": "https://www.preprints.org/topics",
     "preprints_catalog_status": "Submission Open",
     "preprints_catalog_deadline": "2027-08-29",
-    "fit": "Question answering, reliability, privacy leakage, model security. Preprints catalog and MDPI journal deadlines can differ; use each interface's own deadline."
+    "fit": "Question answering, reliability, privacy leakage, model security. Preprints catalog and MDPI journal deadlines can differ; use each interface's own deadline.",
+    "status_observed_date": "2026-10-31"
   },
   "suggested_keywords": [
     "multilingual evaluation",
@@ -21,5 +22,17 @@
     "abstention"
   ],
   "keywords_status": "Author-proposed keywords, NOT exact dropdown labels or collection titles.",
-  "mdpi_topic_fit_degree": "secondary (LLM reliability/QA, not a dedicated African-language Topic)"
+  "mdpi_topic_fit_degree": "secondary (LLM reliability/QA, not a dedicated African-language Topic)",
+  "manuscript_title": "Source Use and Cultural Image Questions: Small External-Label Pilots in Yoruba and Swahili",
+  "manuscript_revision_date": "2026-11-01",
+  "classification_observed_date": "2026-10-31",
+  "submission_status": "Managed separately on Preprints.org; this file records classification guidance, not a submission or version-update action.",
+  "future_work_languages": {
+    "core": "Swahili",
+    "gated_replication": "Asante-compatible Twi",
+    "completed_pilot": [
+      "Yoruba",
+      "Swahili"
+    ]
+  }
 }

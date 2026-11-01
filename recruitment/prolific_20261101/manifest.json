@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "observation": "Public visible audience checker; separate selected-filter DOM and count-bearing UI records",
+  "human_data_collection": false,
+  "files_sha256": {
+    "availability.json": "bb3c6fde0c30f92ddced73f359ea812003e53e8277c11c9f487e582e16dbe432",
+    "swahili_first_count701_visible.jpg": "c4604bff9c9add0130732f3f6ca986770591715385508e598235f8df8add3188",
+    "swahili_first_count701_visible.txt": "6c9106074fce6889defa1d0303188050efe36329508b818fd472ecd71d917054",
+    "swahili_first_filter_selected.txt": "f419ea5a648f9cf0b3fbaf251de52d2acf63bae69cd699d4faef6946ea54e75d",
+    "swahili_fluent_count1872_visible.jpg": "7a1a70c893eb31491646ded20304accf2bfe3e9d3ec5264fe20f067669e0b262",
+    "swahili_fluent_count1872_visible.txt": "4a06af591995a0e18d30bdcb4d35404f870e8d54cb856f770417471e051b7a1b",
+    "swahili_fluent_filter_selected.txt": "597b08be8b84dd00f9a4dd08a7451927e19f4e34037760309880e86ff8082933",
+    "twi_first_language_70.jpg": "8940b73244e5d716325bd3bec116eac8cc7168dae2d5dde2d6c2ee188d9630d5",
+    "twi_first_language_70.txt": "b78ae0b4e3f7758a68fafa1f4a1312039135ea818ac30cbca022e4ef9e68310f",
+    "yoruba_first_language_no_option.jpg": "0ff2d02e4f16ade6d1713d3176bab00c9d1d229bace1f3805d821daa78af02e1",
+    "yoruba_fluent_language_no_option.jpg": "57588a8d1fd61ec9abaa83ac23575f13a4d8ce75d759ed516992d5980e7c5c98"
+  }
+}

@@ -3,4 +3,4 @@ Topic within Subject: Artificial Intelligence and Machine Learning
 Optional MDPI Topic: Challenges and Solutions in Large Language Models
 Topic URL: https://www.mdpi.com/topics/B712V62UH1
 Scope fit: Question answering, reliability, privacy leakage, model security. Preprints catalog and MDPI journal deadlines can differ; use each interface's own deadline.
-Recommended metadata; no submission has been made.
+Classification guidance recorded October 31, 2026. Manuscript future work revised November 1, 2026. Submission/version status is managed separately on Preprints.org.

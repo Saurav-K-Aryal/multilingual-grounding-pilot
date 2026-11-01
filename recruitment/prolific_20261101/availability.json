@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-01",
+  "source": "https://app.prolific.com/audience-checker",
+  "method": "Public visible UI; no login, study creation, recruitment or payments",
+  "population": "Participants active in past 90 days",
+  "filters": [
+    {
+      "attribute": "First Language",
+      "value": "Swahili",
+      "count": 701,
+      "evidence": "swahili_first_count701_visible.txt; swahili_first_filter_selected.txt"
+    },
+    {
+      "attribute": "Fluent languages",
+      "value": "Swahili",
+      "count": 1872,
+      "evidence": "swahili_fluent_count1872_visible.txt; swahili_fluent_filter_selected.txt"
+    },
+    {
+      "attribute": "First Language",
+      "value": "Twi",
+      "count": 70,
+      "evidence": "twi_first_language_70.txt"
+    }
+  ],
+  "other_filters": [],
+  "yoruba": "No direct response option found for First Language or Fluent languages; not a zero-speaker estimate",
+  "limitations": [
+    "Self-report, not independent competence verification",
+    "Time-varying availability; not guaranteed recruits",
+    "Separate filters may overlap; do not add counts",
+    "Country coverage may select diaspora; not population-representative"
+  ],
+  "earlier_observations": [
+    {
+      "attribute": "First Language",
+      "value": "Swahili",
+      "count": 700
+    },
+    {
+      "attribute": "Fluent languages",
+      "value": "Swahili",
+      "count": 1870
+    },
+    {
+      "attribute": "First Language",
+      "value": "Twi",
+      "count": 70
+    }
+  ],
+  "note": "Swahili counts changed from 700/1870 to 701/1872 during this dated observation session; separate filters are snapshots, not concurrent guaranteed capacity."
+}

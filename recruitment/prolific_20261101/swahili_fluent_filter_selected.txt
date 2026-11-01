@@ -1,0 +1,25 @@
+- group "Who will see your study?":
+  - generic: Who will see your study?
+  - list:
+    - radio "I want to apply custom prescreening" [checked]
+    - generic: I want to apply custom prescreening
+    - radio "I don't mind. Everyone can see it!"
+    - generic: I don't mind. Everyone can see it!
+- generic: 259,835
+- generic: Participants active in the past 90 days
+- link "Sign up now":
+  - /url: https://app.prolific.com/register/researcher
+- dialog "Find the participants you need":
+  - form:
+    - heading "Fluent languages" [level=4]
+    - paragraph:
+      - text: "Participants were asked the following question:"
+      - strong: Which of the following languages are you fluent in?
+    - searchbox "Type to search...": Swahili
+    - button "Deselect all (1)"
+    - list "Responses":
+      - checkbox "Swahili" [checked] [active]
+      - generic: Swahili
+    - button "Back"
+    - button "Cancel"
+    - button "Apply"

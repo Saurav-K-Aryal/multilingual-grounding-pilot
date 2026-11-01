@@ -146,15 +146,17 @@
       "source": "outputs/pilot_papers/07_multilingual_grounding/figures/source_extraction.png",
       "published": "figures/source_extraction.png",
       "source_sha256": "b88a5cfc18cc9788452d668b607f4cb85dadfe8c28db7d24b7a2688fd6321820",
-      "published_sha256": "b88a5cfc18cc9788452d668b607f4cb85dadfe8c28db7d24b7a2688fd6321820",
-      "transformation": "none"
+      "published_sha256": "fb5eb15881bd8191cb373af34a701915c7666d651afd923ffe61248196e29638",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "previous_published_sha256": "b88a5cfc18cc9788452d668b607f4cb85dadfe8c28db7d24b7a2688fd6321820"
     },
     {
       "source": "outputs/pilot_papers/07_multilingual_grounding/figures/cultural_image_use.png",
       "published": "figures/cultural_image_use.png",
       "source_sha256": "24aabd4aeba0eaa40ef31fb382d33c938fc061d30ee9db1e9834ec59a222d341",
-      "published_sha256": "24aabd4aeba0eaa40ef31fb382d33c938fc061d30ee9db1e9834ec59a222d341",
-      "transformation": "none"
+      "published_sha256": "94d02b0c9ce69f94687cbfe0d918fbe000049206157e7b5541ab71fecd43003f",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "previous_published_sha256": "24aabd4aeba0eaa40ef31fb382d33c938fc061d30ee9db1e9834ec59a222d341"
     },
     {
       "source": "runs/strengthening-07-20261031/ATTRIBUTION.txt",
@@ -167,41 +169,46 @@
       "source": "outputs/pilot_papers/07_multilingual_grounding/SUMMARY.txt",
       "published": "SUMMARY.txt",
       "source_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
-      "published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "16795391808a1d7dbd2786eac7827e33dd7d15b1bca92ec2a082a858575b88c0",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e"
     },
     {
       "source": "work/public_repos/multilingual-grounding-pilot/CITATION.cff",
       "published": "CITATION.cff",
       "source_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c",
-      "published_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "eccd66ea129a4294637c6409c8e839d4943b87249629f32c1ca2e3cdf91e1a5a",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c"
     },
     {
       "source": "outputs/pilot_papers/07_multilingual_grounding/README.md",
       "published": "README.md",
       "source_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
-      "published_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "cda827b97effba7f44fe5582a6bd40115f48a51104845c4424d49a9c4362d63b",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "3ac93e1b0ffa6e7387ac445f599271682666eaa638634b58a96e556292d6d527"
     },
     {
       "source": "outputs/pilot_papers/07_multilingual_grounding/PREPRINTS_METADATA.txt",
       "published": "PREPRINTS_METADATA.txt",
       "source_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a",
-      "published_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "87f7a87d4b4f9c317d66d2457b6791ec02e8c2c763ed730995b850c03880f326",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a"
     },
     {
       "source": "outputs/pilot_papers/07_multilingual_grounding_overleaf.zip",
       "published": "overleaf.zip",
       "source_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
-      "published_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "241c10daad00b4ebc24126abbc91cae99359fb4c4aa9582758c967bd59005a27",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "855a3f77c55265af1da0b1e0f849e0cb1f97d3b2c01047c37e5cd16ce74aa20f"
     },
     {
       "source": "work/public_repos/multilingual-grounding-pilot/.gitignore",
@@ -215,9 +222,10 @@
       "source": "outputs/pilot_papers/07_multilingual_grounding/draft.pdf",
       "published": "paper.pdf",
       "source_sha256": "279304fb366c5c6a63fcf35c8cbbd4ec6ef3360960404d91c22a60d3ab2e9135",
-      "published_sha256": "279304fb366c5c6a63fcf35c8cbbd4ec6ef3360960404d91c22a60d3ab2e9135",
-      "transformation": "none",
-      "kind": "release metadata or manuscript archive/preview"
+      "published_sha256": "27877a8a8d0a3fd3f3ff6e4f4d6bf209c5250428b69eea7f8056cd5b9b794ea7",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged.",
+      "kind": "release metadata or manuscript archive/preview",
+      "previous_published_sha256": "8a2d32e4e64d699a74cd2b153f0034cbb4911fb0b31a73e7efc73acb799d75ec"
     }
   ],
   "generated_files": [
@@ -228,25 +236,31 @@
     },
     {
       "published": "verify_results.py",
-      "published_sha256": "337410c15eea28ba22b37617addc06f332e1768c2f369512424f2fb181a5beaa",
-      "purpose": "Independent stdlib readback of projected observations and numeric cells."
+      "published_sha256": "bd8ce2c1e947f101ae06da5434f02afafc47ffb3edfa3c50809a48e34ae05916",
+      "purpose": "Independent stdlib readback of projected observations and numeric cells.",
+      "previous_published_sha256": "337410c15eea28ba22b37617addc06f332e1768c2f369512424f2fb181a5beaa",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged."
     },
     {
       "published": "README.md",
-      "published_sha256": "10c3a1552596b22cfa6aacf20a182cc60ab0955350acb367dd88a33cf53e47ae",
+      "published_sha256": "cda827b97effba7f44fe5582a6bd40115f48a51104845c4424d49a9c4362d63b",
       "purpose": "Portable setup, results, scope, attribution and manuscript instructions.",
-      "previous_published_sha256": "721210577d775fbbf6b29151d14595485af016c948b0dd03f1f33a5d94f98cea"
+      "previous_published_sha256": "3ac93e1b0ffa6e7387ac445f599271682666eaa638634b58a96e556292d6d527",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged."
     },
     {
       "published": "SUMMARY.txt",
-      "published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "published_sha256": "16795391808a1d7dbd2786eac7827e33dd7d15b1bca92ec2a082a858575b88c0",
       "purpose": "One-paragraph summary of actual observations.",
-      "previous_published_sha256": "dedfe85ec44e0e79d2fc00c87b6aac6276349444d4bf4423efcd5ac029ec72b5"
+      "previous_published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged."
     },
     {
       "published": "preprints_metadata.json",
-      "published_sha256": "c482b500b0412596fa161216e46206954b63491d5a18e34061f6bfba519c3e70",
-      "purpose": "Suggested classifications, primary source URLs and collection-status caveats."
+      "published_sha256": "99742886ef202f144f3d7758aa4313072ab555eb9cccf06d2d23b8cc3a1310ec",
+      "purpose": "Suggested classifications, primary source URLs and collection-status caveats.",
+      "previous_published_sha256": "c482b500b0412596fa161216e46206954b63491d5a18e34061f6bfba519c3e70",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged."
     },
     {
       "published": "requirements.txt",
@@ -255,8 +269,131 @@
     },
     {
       "published": "overleaf.zip",
+      "published_sha256": "241c10daad00b4ebc24126abbc91cae99359fb4c4aa9582758c967bd59005a27",
+      "purpose": "Only manuscript-source package; no loose TeX or bibliography files in public tree.",
+      "previous_published_sha256": "855a3f77c55265af1da0b1e0f849e0cb1f97d3b2c01047c37e5cd16ce74aa20f",
+      "transformation": "November 1, 2026 documentation/manuscript future-work revision; completed pilot observations unchanged."
+    },
+    {
+      "published": "archive/20261031/preprints_metadata.json",
+      "published_sha256": "c482b500b0412596fa161216e46206954b63491d5a18e34061f6bfba519c3e70",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/paper.pdf",
+      "published_sha256": "279304fb366c5c6a63fcf35c8cbbd4ec6ef3360960404d91c22a60d3ab2e9135",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/CITATION.cff",
+      "published_sha256": "403903a459c87b05899a85fff419bf834f58bc48ce4b110dbf7f411ee716873c",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/README.md",
+      "published_sha256": "da002801c29cda206777e9ef42e31755011526506808090a0027e8fc12041e8c",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/SUMMARY.txt",
+      "published_sha256": "9d7aff37e57e448bb29c7e4e1b74f8e1afee2008bd78bbbe6f0c554156832a5e",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/PREPRINTS_METADATA.txt",
+      "published_sha256": "db928dace567746097ee8826a4a52af295a94029d7127f5e4ac3ada97f04755a",
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "archive/20261031/overleaf.zip",
       "published_sha256": "4427dcbfdf542c27635828979679e94b819e1376d7f160af569491864f7d6921",
-      "purpose": "Only manuscript-source package; no loose TeX or bibliography files in public tree."
+      "purpose": "Historical manuscript snapshot"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_first_filter_selected.txt",
+      "published_sha256": "f419ea5a648f9cf0b3fbaf251de52d2acf63bae69cd699d4faef6946ea54e75d",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/twi_first_language_70.txt",
+      "published_sha256": "b78ae0b4e3f7758a68fafa1f4a1312039135ea818ac30cbca022e4ef9e68310f",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/yoruba_fluent_language_no_option.jpg",
+      "published_sha256": "57588a8d1fd61ec9abaa83ac23575f13a4d8ce75d759ed516992d5980e7c5c98",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_fluent_count1872_visible.jpg",
+      "published_sha256": "7a1a70c893eb31491646ded20304accf2bfe3e9d3ec5264fe20f067669e0b262",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/twi_first_language_70.jpg",
+      "published_sha256": "8940b73244e5d716325bd3bec116eac8cc7168dae2d5dde2d6c2ee188d9630d5",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_fluent_count1872_visible.txt",
+      "published_sha256": "4a06af591995a0e18d30bdcb4d35404f870e8d54cb856f770417471e051b7a1b",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/yoruba_first_language_no_option.jpg",
+      "published_sha256": "0ff2d02e4f16ade6d1713d3176bab00c9d1d229bace1f3805d821daa78af02e1",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/README.md",
+      "published_sha256": "4bf6b4346ead02a9325f6ef09b0562b95a34076b958be08faac983ccd551eee7",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_first_count701_visible.jpg",
+      "published_sha256": "c4604bff9c9add0130732f3f6ca986770591715385508e598235f8df8add3188",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/availability.json",
+      "published_sha256": "bb3c6fde0c30f92ddced73f359ea812003e53e8277c11c9f487e582e16dbe432",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/manifest.json",
+      "published_sha256": "ab1c69f7cf438e891083706ac83b378139f00dcd56b5317cfeb77a5602ca6843",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_first_count701_visible.txt",
+      "published_sha256": "6c9106074fce6889defa1d0303188050efe36329508b818fd472ecd71d917054",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "recruitment/prolific_20261101/swahili_fluent_filter_selected.txt",
+      "published_sha256": "597b08be8b84dd00f9a4dd08a7451927e19f4e34037760309880e86ff8082933",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    },
+    {
+      "published": "CHANGELOG.md",
+      "published_sha256": "1cb156e0ef356c88d140e0ac7b6c58887e5af470e8cdb4e02f30fd27fcf67644",
+      "purpose": "Dated public recruitment-pool evidence or revision notes; no participant data"
+    }
+  ],
+  "revisions": [
+    {
+      "date": "2026-11-01",
+      "base_commit": "5c2be6ac728b63825f4997617d06d7f916045def",
+      "completed_results_changed": false,
+      "executed_pilot_code_changed": false,
+      "new_human_study": false,
+      "changes": [
+        "Swahili core and gated Asante-compatible Twi future study",
+        "Dated public Prolific pool evidence, not competence or representativeness",
+        "Primary future comparator includes ordinary locality/date metadata filtering",
+        "Archived prior public manuscript; revised PDF and zipped ACM source",
+        "Hash verification expanded to new recruitment evidence"
+      ]
     }
   ]
 }

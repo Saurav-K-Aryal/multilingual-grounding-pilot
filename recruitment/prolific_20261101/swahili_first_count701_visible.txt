@@ -1,0 +1,16 @@
+- group "Who will see your study?":
+  - generic: Who will see your study?
+  - list:
+    - radio "I want to apply custom prescreening" [checked]
+    - generic: I want to apply custom prescreening
+    - list:
+      - generic: First Language
+      - generic: Edit
+      - generic: Remove
+      - generic: Add another filter?
+    - radio "I don't mind. Everyone can see it!"
+    - generic: I don't mind. Everyone can see it!
+- generic: "701"
+- generic: Participants active in the past 90 days
+- link "Sign up now":
+  - /url: https://app.prolific.com/register/researcher

@@ -1,0 +1,11 @@
+November 1, 2026 verification
+
+PASS: all 234 recorded output schemas, strict labels, token F1 and aggregates.
+PASS: unchanged frozen pilot code, data, protocol and observed-result files.
+PASS: recreated all 117 frozen cases and 13 processed image packets from pinned public sources; no model calls.
+PASS: regenerated the two recorded-count figures.
+PASS: dated recruitment snapshot counts and public-file hashes.
+PASS: ACM single-column manuscript compiled with no undefined citations or overfull boxes; every one of eight final pages visually inspected.
+PASS: overleaf.zip contains draft.tex, refs.bib, identical references.bib, figures and instructions, with no loose TeX/Bib files tracked.
+
+No new model inference, human recruitment, human study or Twi experiment occurred in this revision. The original 234-request observations remain unchanged. Prolific availability is a dated self-report snapshot; the proposed qualification/evaluation is future work.

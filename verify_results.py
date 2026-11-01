@@ -40,5 +40,11 @@ def main():
  # The manifest binds projected public files to their unchanged original hashes.
  provenance=read(HERE/'PUBLICATION_PROVENANCE.json')
  for row in provenance['files']+provenance.get('generated_files',[]):assert hashlib.sha256((HERE/row['published']).read_bytes()).hexdigest()==row['published_sha256'],row['published']
- print('PASS:234 outputs, public-file hashes, strict labels, token F1 and aggregates; no model calls.')
+ recruitment=read(HERE/'recruitment/prolific_20261101/availability.json')
+ counts={(r['attribute'],r['value']):r['count'] for r in recruitment['filters']}
+ assert counts=={('First Language','Swahili'):701,('Fluent languages','Swahili'):1872,('First Language','Twi'):70}
+ evidence=read(HERE/'recruitment/prolific_20261101/manifest.json')
+ assert evidence['human_data_collection'] is False
+ for name,expected in evidence['files_sha256'].items():assert hashlib.sha256((HERE/'recruitment/prolific_20261101'/name).read_bytes()).hexdigest()==expected,name
+ print('PASS:234 outputs, labels, token F1, aggregates, publication hashes and dated recruitment evidence; no model or participant calls.')
 if __name__=='__main__':main()

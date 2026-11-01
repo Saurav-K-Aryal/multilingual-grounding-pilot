@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-01",
+  "passed": true,
+  "pdf": "paper.pdf",
+  "pdf_sha256": "27877a8a8d0a3fd3f3ff6e4f4d6bf209c5250428b69eea7f8056cd5b9b794ea7",
+  "pages": 8,
+  "overleaf_zip_sha256": "241c10daad00b4ebc24126abbc91cae99359fb4c4aa9582758c967bd59005a27",
+  "pilot_observations_unchanged": true,
+  "model_calls_this_revision": 0,
+  "human_data_collection_this_revision": false,
+  "checks": {
+    "saved_results": "PASS: all234 responses, labels, F1, aggregates and provenance",
+    "input_reconstruction": "PASS: all117 frozen cases and13 processed image packets matched; no model calls",
+    "figures": "PASS: regenerated both recorded-count figures",
+    "latex": "PASS: latexmk compilation, no undefined citations or overfull boxes",
+    "archive": "October31 PDF/Overleaf and metadata preserved",
+    "raw_tex_in_public_tree": false
+  }
+}
